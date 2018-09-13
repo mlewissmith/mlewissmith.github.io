@@ -1,0 +1,134 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Thu Sep 13 11:10:24 2018 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="2.3in" height="3.4in" viewBox="3565 4298 2786 4135">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="4995" y="4381" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="4995" y="5798" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3577" y="4381" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3577" y="5798" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3577" y="7215" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line -->
+<polyline points="4853,7748
+4928,7748
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4251,7145
+4251,6932
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4251,5728
+4251,5514
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4853,6330
+5066,6330
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4853,4913
+5066,4913
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="5066" y="7145" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5066" y="4310" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#f5f5dc;
+"/>
+<!-- Line: box -->
+<rect x="5066" y="5728" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#f5f5dc;
+"/>
+<!-- Line: box -->
+<rect x="3649" y="4310" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#f5f5dc;
+"/>
+<!-- Line: box -->
+<rect x="3649" y="5728" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#f5f5dc;
+"/>
+<!-- Line: box -->
+<rect x="3649" y="7145" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#f5f5dc;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="7668" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="202" text-anchor="middle">[Parkview</text>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="7947" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="202" text-anchor="middle">Apartments]</text>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="4973" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Bathroom</text>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="6390" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Kitchen</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="4973" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Bedroom</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="5961" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Living</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="6240" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Room</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="6386" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">recording, recording,</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="6491" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">recording, recording,</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="6596" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">recording, recording</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="7388" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Hall Near</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="7668" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Your</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="7947" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Apartment</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="8225" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">(17)</text>
+</g>
+</svg>

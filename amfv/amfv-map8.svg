@@ -1,0 +1,220 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Thu Sep 13 11:10:24 2018 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="5.8in" height="5.8in" viewBox="1439 2880 6970 6970">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="7121" y="2963" width="1205" height="1205" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4682b4;
+"/>
+<!-- Line: box -->
+<rect x="5703" y="4381" width="1205" height="1205" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4682b4;
+"/>
+<!-- Line: box -->
+<rect x="2869" y="7215" width="1205" height="1205" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4682b4;
+"/>
+<!-- Line: box -->
+<rect x="7121" y="8633" width="1205" height="1205" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4682b4;
+"/>
+<!-- Line: box -->
+<rect x="5703" y="7215" width="1205" height="1205" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4682b4;
+"/>
+<!-- Line: box -->
+<rect x="4286" y="5798" width="1205" height="1205" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4682b4;
+"/>
+<!-- Line: box -->
+<rect x="2869" y="4381" width="1205" height="1205" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4682b4;
+"/>
+<!-- Line: box -->
+<rect x="1451" y="2963" width="1205" height="1205" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#4682b4;
+"/>
+<!-- Line -->
+<polyline points="2727,4097
+2940,4310
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4144,5514
+4358,5728
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5562,6932
+5775,7145
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6979,8349
+7192,8562
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4358,6932
+4144,7145
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5562,5728
+5775,5514
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6979,4310
+7192,4097
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="7192" y="2893" width="1204" height="1204" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5775" y="4310" width="1204" height="1204" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="2940" y="7145" width="1204" height="1204" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="7192" y="8562" width="1204" height="1204" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5775" y="7145" width="1204" height="1204" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="4358" y="5728" width="1204" height="1204" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="2940" y="4310" width="1204" height="1204" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="1523" y="2893" width="1204" height="1204" rx="0" 
+style="stroke:#4682b4;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="7799" y="3137" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Terminal</text>
+<!-- Text -->
+<text xml:space="preserve" x="7799" y="3416" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Tube</text>
+<!-- Text -->
+<text xml:space="preserve" x="7799" y="3695" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Station</text>
+<!-- Text -->
+<text xml:space="preserve" x="7799" y="3973" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">(30)</text>
+<!-- Text -->
+<text xml:space="preserve" x="6382" y="4474" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="139" text-anchor="middle">Bodanski</text>
+<!-- Text -->
+<text xml:space="preserve" x="6382" y="4666" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="139" text-anchor="middle">Square Tube</text>
+<!-- Text -->
+<text xml:space="preserve" x="6382" y="4857" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="139" text-anchor="middle">Station (29)</text>
+<!-- Text -->
+<text xml:space="preserve" x="6382" y="4990" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="middle">recording,</text>
+<!-- Text -->
+<text xml:space="preserve" x="6382" y="5200" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="152" text-anchor="middle">recording</text>
+<!-- Text -->
+<text xml:space="preserve" x="3547" y="7343" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Elm &#38;</text>
+<!-- Text -->
+<text xml:space="preserve" x="3547" y="7570" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">University</text>
+<!-- Text -->
+<text xml:space="preserve" x="3547" y="7797" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Tube</text>
+<!-- Text -->
+<text xml:space="preserve" x="3547" y="8024" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Station (2)</text>
+<!-- Text -->
+<text xml:space="preserve" x="3547" y="8249" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">(28)</text>
+<!-- Text -->
+<text xml:space="preserve" x="7799" y="8851" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="177" text-anchor="middle">Wicker &#38;</text>
+<!-- Text -->
+<text xml:space="preserve" x="7799" y="9096" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="177" text-anchor="middle">River Tube</text>
+<!-- Text -->
+<text xml:space="preserve" x="7799" y="9339" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="177" text-anchor="middle">Station</text>
+<!-- Text -->
+<text xml:space="preserve" x="7799" y="9584" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="177" text-anchor="middle">(27)</text>
+<!-- Text -->
+<text xml:space="preserve" x="6382" y="7434" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="177" text-anchor="middle">Elm &#38;</text>
+<!-- Text -->
+<text xml:space="preserve" x="6382" y="7678" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="177" text-anchor="middle">River Tube</text>
+<!-- Text -->
+<text xml:space="preserve" x="6382" y="7922" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="177" text-anchor="middle">Station</text>
+<!-- Text -->
+<text xml:space="preserve" x="6382" y="8166" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="177" text-anchor="middle">(26)</text>
+<!-- Text -->
+<text xml:space="preserve" x="4964" y="5926" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Skybus</text>
+<!-- Text -->
+<text xml:space="preserve" x="4964" y="6153" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Terminal</text>
+<!-- Text -->
+<text xml:space="preserve" x="4964" y="6380" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Tube</text>
+<!-- Text -->
+<text xml:space="preserve" x="4964" y="6606" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Station</text>
+<!-- Text -->
+<text xml:space="preserve" x="4964" y="6832" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">(25)</text>
+<!-- Text -->
+<text xml:space="preserve" x="3547" y="4622" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Halley Park</text>
+<!-- Text -->
+<text xml:space="preserve" x="3547" y="4849" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">West Tube</text>
+<!-- Text -->
+<text xml:space="preserve" x="3547" y="5076" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Station</text>
+<!-- Text -->
+<text xml:space="preserve" x="3547" y="5302" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">(24)</text>
+<!-- Text -->
+<text xml:space="preserve" x="2130" y="3091" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Rockvil</text>
+<!-- Text -->
+<text xml:space="preserve" x="2130" y="3318" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Stadium</text>
+<!-- Text -->
+<text xml:space="preserve" x="2130" y="3545" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Tube</text>
+<!-- Text -->
+<text xml:space="preserve" x="2130" y="3772" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">Station</text>
+<!-- Text -->
+<text xml:space="preserve" x="2130" y="3997" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="164" text-anchor="middle">(23)</text>
+</g>
+</svg>

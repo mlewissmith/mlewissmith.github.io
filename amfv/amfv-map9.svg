@@ -1,0 +1,292 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Thu Sep 13 11:10:24 2018 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="4.6in" height="7.0in" viewBox="2148 2172 5552 8387">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="3577" y="2255" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2160" y="5089" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2160" y="3672" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="4995" y="3672" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3577" y="3672" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="4995" y="5089" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="6412" y="6507" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="4995" y="6507" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3577" y="6507" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3577" y="9341" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3577" y="7924" width="1205" height="1205" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line -->
+<polyline points="4251,9058
+4251,9271
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4251,7854
+4251,7640
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4853,7039
+5066,7039
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6270,7039
+6483,7039
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4853,6436
+5066,6223
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4251,6436
+4251,6433
+4251,6427
+4251,6415
+4251,6397
+4251,6373
+4251,6343
+4251,6306
+4251,6265
+4251,6221
+4251,6175
+4251,6128
+4251,6081
+4251,6035
+4251,5991
+4251,5949
+4251,5909
+4251,5871
+4251,5836
+4251,5802
+4251,5770
+4251,5738
+4251,5709
+4251,5679
+4251,5650
+4251,5622
+4251,5590
+4251,5559
+4251,5527
+4251,5496
+4251,5463
+4251,5430
+4251,5397
+4251,5363
+4251,5331
+4251,5297
+4251,5265
+4251,5232
+4251,5201
+4251,5170
+4251,5141
+4251,5113
+4251,5086
+4251,5061
+4251,5038
+4251,5015
+4251,4995
+4251,4976
+4251,4958
+4251,4806
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4853,4204
+5066,4204
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3649,4204
+3436,4204
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3649,4806
+3436,5019
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4251,3602
+4251,3513
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 4251 3602 - 4251 3373-->
+<polygon points="4283 3516
+4251 3390
+4220 3516
+4283 3516
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Text -->
+<text xml:space="preserve" x="4960" y="6330" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="76" text-anchor="middle">U/D</text>
+<!-- Line: box -->
+<rect x="3649" y="2184" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="2232" y="5019" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="2232" y="3602" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5066" y="3602" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3649" y="3602" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5066" y="5019" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="6483" y="6436" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5066" y="6436" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3649" y="6436" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3649" y="9271" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3649" y="7854" width="1204" height="1204" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="2847" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Skycab</text>
+<!-- Text -->
+<text xml:space="preserve" x="2838" y="5681" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Bathroom</text>
+<!-- Text -->
+<text xml:space="preserve" x="2838" y="4264" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Den</text>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="4124" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Guest</text>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="4404" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Room</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="4264" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Foyer</text>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="5542" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Master</text>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="5821" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Bedroom</text>
+<!-- Text -->
+<text xml:space="preserve" x="7090" y="7099" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Kitchen</text>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="6959" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Dining</text>
+<!-- Text -->
+<text xml:space="preserve" x="5673" y="7238" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Room</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="6959" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Living</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="7238" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Room</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="9933" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Patio</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="8376" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">Solarium</text>
+<!-- Text -->
+<text xml:space="preserve" x="4256" y="8656" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="202" text-anchor="middle">(6)</text>
+</g>
+</svg>
