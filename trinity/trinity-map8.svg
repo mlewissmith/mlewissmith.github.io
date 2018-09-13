@@ -1,0 +1,672 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Thu Sep 13 11:24:06 2018 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="8.1in" height="11.5in" viewBox="1002 2100 9733 13773">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="9519" y="9271" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="5267" y="14940" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="5267" y="13523" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="5267" y="12106" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3849" y="12106" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="1015" y="12106" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2432" y="10688" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3849" y="9271" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3849" y="2184" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2432" y="2184" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3849" y="3602" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="5267" y="5019" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="5267" y="6436" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="5267" y="7854" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="6684" y="7854" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="8101" y="7854" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="8101" y="6436" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="8101" y="5019" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="6684" y="6436" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="6684" y="5019" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="6684" y="3602" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="6684" y="2184" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="8101" y="2184" width="1133" height="920" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line -->
+<polyline points="7322,4452
+7322,4625
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8172,2574
+7889,2574
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7322,3035
+7322,3530
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7322,5869
+7322,6365
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8172,5408
+7889,5408
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7889,6365
+8172,5869
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8172,6365
+7889,5869
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8740,6365
+8740,5869
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7889,6826
+8172,6826
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8740,7782
+8740,7287
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7889,7287
+8172,7782
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7889,8243
+8172,8243
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7889,7782
+8172,7287
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7322,7287
+7322,7782
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6472,8243
+6755,8243
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6755,7287
+6472,7782
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6472,7287
+6755,7782
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5905,7287
+5905,7782
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6472,6365
+6755,5869
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6755,6826
+6472,6826
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6472,5408
+6755,5408
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5905,5869
+5905,6365
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6755,6365
+6472,5869
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5338,4948
+5055,4452
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3921,3530
+3637,3035
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3637,2574
+3921,2574
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5338,8704
+5055,9200
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3921,10121
+3637,10617
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2503,11539
+2220,12034
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3637,11539
+3921,12034
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7322,8704
+7322,8706
+7322,8711
+7321,8721
+7320,8735
+7319,8755
+7317,8782
+7315,8813
+7312,8851
+7309,8892
+7304,8937
+7300,8985
+7294,9035
+7289,9084
+7281,9134
+7274,9183
+7267,9231
+7258,9277
+7249,9321
+7239,9364
+7228,9406
+7217,9446
+7205,9484
+7191,9522
+7177,9559
+7162,9594
+7145,9630
+7127,9666
+7107,9701
+7086,9737
+7068,9766
+7050,9795
+7030,9825
+7011,9855
+6990,9885
+6967,9917
+6944,9948
+6920,9981
+6895,10014
+6870,10048
+6844,10081
+6816,10116
+6789,10152
+6761,10186
+6731,10223
+6703,10259
+6674,10296
+6643,10332
+6614,10369
+6584,10406
+6554,10443
+6524,10479
+6496,10515
+6467,10552
+6438,10586
+6411,10622
+6384,10657
+6358,10690
+6332,10724
+6307,10758
+6283,10790
+6260,10822
+6238,10853
+6217,10883
+6197,10913
+6177,10943
+6159,10972
+6141,11001
+6119,11040
+6098,11078
+6078,11116
+6060,11154
+6043,11192
+6027,11230
+6012,11268
+5998,11306
+5986,11342
+5974,11380
+5963,11417
+5953,11453
+5945,11488
+5938,11523
+5931,11558
+5926,11590
+5921,11622
+5917,11652
+5913,11680
+5911,11708
+5909,11734
+5907,11758
+5906,11781
+5906,11802
+5905,11822
+5905,11841
+5905,11859
+5905,12034
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5338,13451
+5055,12956
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5905,12956
+5905,13451
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5905,14373
+5905,14869
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="9307,8704
+9590,9200
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="7322" y="3282" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="76" text-anchor="middle">U/D</text>
+<!-- Text -->
+<text xml:space="preserve" x="3779" y="2574" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="76" text-anchor="middle">I/O</text>
+<!-- Line: box -->
+<rect x="9590" y="9200" width="1132" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="14869" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="13451" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="12034" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3920" y="12034" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="1086" y="12034" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="2503" y="10617" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3920" y="9200" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3920" y="2113" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="2503" y="2113" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3920" y="3530" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="4948" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="6365" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="7782" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="6754" y="7782" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="8172" y="7782" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="8172" y="6365" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="8172" y="4948" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="6754" y="6365" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="6754" y="4948" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="6754" y="3530" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="6754" y="2113" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="8172" y="2113" width="1133" height="921" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bdbdbd;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="10162" y="9706" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">RANCH AREA</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="15288" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Behind The</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="15462" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Shed (Baker)</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="13958" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Paved Road</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="12540" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Paved Road</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="12540" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Paved Road</text>
+<!-- Text -->
+<text xml:space="preserve" x="1658" y="12366" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Outside</text>
+<!-- Text -->
+<text xml:space="preserve" x="1658" y="12540" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Blockhouse</text>
+<!-- Text -->
+<text xml:space="preserve" x="1658" y="12714" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">(Pittsburgh)</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="11123" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Crossroads</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="9706" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Paved Road</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="2397" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Jeep</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="2809" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">Wallet, Radio</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="2532" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Paved Road</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="2706" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">(Able)</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="4036" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Paved Road</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="5366" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Northwest of</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="5541" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Tower</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="6871" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">West Of Tower</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="8201" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Southwest Of</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="8375" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Tower</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="8201" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">South of</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="8375" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Tower</text>
+<!-- Text -->
+<text xml:space="preserve" x="8745" y="8201" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Shallow</text>
+<!-- Text -->
+<text xml:space="preserve" x="8745" y="8375" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Crater (3)</text>
+<!-- Text -->
+<text xml:space="preserve" x="8745" y="6871" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">East of Tower</text>
+<!-- Text -->
+<text xml:space="preserve" x="8745" y="5366" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Northeast of</text>
+<!-- Text -->
+<text xml:space="preserve" x="8745" y="5541" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Tower</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="6562" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Base Of Tower</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="6737" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">(2)</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="7061" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">Ruby, Locked Box</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="5366" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">North Of</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="5541" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Tower</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="3949" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Tower Landing</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="4123" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">(2)</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="2532" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Tower</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="2706" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Platform</text>
+<!-- Text -->
+<text xml:space="preserve" x="8745" y="2397" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Shack</text>
+<!-- Text -->
+<text xml:space="preserve" x="8745" y="2809" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">Book</text>
+</g>
+</svg>

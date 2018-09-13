@@ -1,0 +1,84 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Thu Sep 13 11:24:06 2018 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="2.2in" height="2.1in" viewBox="3601 4865 2647 2537">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="5030" y="6365" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3613" y="6365" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3613" y="4948" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line -->
+<polyline points="4251,7215
+4251,7390
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4251,6295
+4251,6120
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4818,7215
+4917,7390
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4818,6295
+4917,6120
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4818,6755
+5102,6755
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line: box -->
+<rect x="5102" y="6295" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3685" y="6295" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="3685" y="4877" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#bdbdbd;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="5674" y="6579" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Shelter</text>
+<!-- Text -->
+<text xml:space="preserve" x="5674" y="6990" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">Spade</text>
+<!-- Text -->
+<text xml:space="preserve" x="4257" y="6800" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Playground</text>
+<!-- Text -->
+<text xml:space="preserve" x="4257" y="5382" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Thin Air</text>
+</g>
+</svg>
