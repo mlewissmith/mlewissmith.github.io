@@ -2,9 +2,9 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
-<!-- CreationDate: Thu Sep 13 11:33:50 2018 -->
+<!-- CreationDate: Mon Sep 17 14:58:49 2018 -->
 <!-- Magnification: 1.050 -->
-<svg xmlns="http://www.w3.org/2000/svg" width="7.0in" height="5.7in" viewBox="974 2739 8344 6789">
+<svg xmlns="http://www.w3.org/2000/svg" width="7.0in" height="5.8in" viewBox="974 2564 8344 6963">
 <g style="stroke-width:.025in; stroke:black; fill:none">
 <!-- Line: box -->
 <rect x="8101" y="2822" width="1133" height="921" rx="0" 
@@ -19,19 +19,31 @@ stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
 "/>
 <!-- Line: box -->
+<rect x="5267" y="5656" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
 <rect x="6684" y="5656" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
 "/>
 <!-- Line: box -->
-<rect x="6684" y="7074" width="1133" height="921" rx="0" 
+<rect x="5267" y="2822" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
 "/>
 <!-- Line: box -->
 <rect x="5267" y="8491" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="6684" y="7074" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
@@ -61,19 +73,19 @@ stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
 "/>
 <!-- Line: box -->
-<rect x="5267" y="5656" width="1133" height="921" rx="0" 
+<rect x="3849" y="4239" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
 "/>
 <!-- Line: box -->
-<rect x="3849" y="5656" width="1133" height="921" rx="0" 
+<rect x="2432" y="4239" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
 "/>
 <!-- Line: box -->
-<rect x="2432" y="5656" width="1133" height="921" rx="0" 
+<rect x="1015" y="4239" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
@@ -84,11 +96,11 @@ style="stroke:#7e7e7e;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
 "/>
-<!-- Line: box -->
-<rect x="1015" y="7074" width="1133" height="921" rx="0" 
-style="stroke:#7e7e7e;stroke-width:8;
+<!-- Line -->
+<polyline points="5338,6047
+5238,6047
+" style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
-fill:#7e7e7e;
 "/>
 <!-- Line -->
 <polyline points="7889,6047
@@ -97,14 +109,20 @@ fill:#7e7e7e;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="7322,7924
-7322,8098
+<polyline points="5338,3212
+5238,3212
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="7889,7464
-7988,7464
+<polyline points="5905,2751
+5905,2577
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6472,3212
+6571,3212
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
@@ -127,6 +145,18 @@ stroke-linejoin:miter; stroke-linecap:butt;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
+<polyline points="7322,7924
+7322,8098
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7889,7464
+7988,7464
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
 <polyline points="4488,7924
 4488,8098
 " style="stroke:#000000;stroke-width:8;
@@ -145,98 +175,128 @@ stroke-linejoin:miter; stroke-linecap:butt;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="5338,4629
-5238,4629
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="5905,4169
-5905,3994
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
 <polyline points="6472,4629
 6571,4629
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="4488,5586
-4488,5412
+<polyline points="4488,4169
+4488,3994
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="3070,5586
-3070,5412
+<polyline points="3070,4169
+3070,3994
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="1086,6047
-986,6047
+<polyline points="1086,4629
+986,4629
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1653,4169
+1653,3994
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1086,5586
+986,5412
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
 <polyline points="1653,5586
-1653,5412
+1653,5089
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="1653,7003
-1653,6507
+<polyline points="2220,4629
+2503,4629
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="2220,6047
-2503,6047
+<polyline points="3637,4629
+3921,4629
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="3637,6047
-3921,6047
+<polyline points="5055,4629
+5338,4629
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="5055,6047
-5338,6047
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="5905,5586
-5905,5089
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="3070,6507
+<polyline points="3070,5089
+3070,5091
+3070,5097
+3070,5106
+3070,5120
+3070,5140
+3070,5165
+3070,5196
+3070,5233
+3070,5273
+3070,5317
+3070,5363
+3070,5411
+3070,5459
+3070,5506
+3070,5553
+3070,5598
+3070,5643
+3070,5683
+3070,5723
+3070,5761
+3070,5798
+3070,5833
+3070,5865
+3070,5897
+3070,5928
+3070,5959
+3070,5988
+3070,6017
+3070,6047
+3070,6080
+3070,6114
+3070,6149
+3070,6183
+3070,6218
+3070,6254
+3070,6289
+3070,6325
+3070,6361
+3070,6396
+3070,6433
+3070,6468
+3070,6502
+3070,6537
+3070,6570
+3070,6602
+3070,6633
+3070,6662
+3070,6690
+3070,6717
+3070,6742
+3070,6765
+3070,6787
+3070,6808
+3070,6826
 3070,7003
 " style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="4488,7003
-4488,6507
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
+stroke-linejoin:bevel; stroke-linecap:butt;
 "/>
 <!-- Line -->
 <polyline points="3637,7464
 3921,7464
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="5905,7003
-5905,6507
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
@@ -247,14 +307,26 @@ stroke-linejoin:miter; stroke-linecap:butt;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
+<polyline points="6472,7464
+6755,7464
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
 <polyline points="5905,7924
 5905,8420
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="6472,7464
-6755,7464
+<polyline points="5905,4169
+5905,3672
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7322,7003
+7322,6507
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
@@ -265,8 +337,74 @@ stroke-linejoin:miter; stroke-linecap:butt;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="7322,7003
-7322,6507
+<polyline points="4488,5089
+4488,5091
+4488,5097
+4488,5106
+4488,5120
+4488,5140
+4488,5165
+4488,5196
+4488,5233
+4488,5273
+4488,5317
+4488,5363
+4488,5411
+4488,5459
+4488,5506
+4488,5553
+4488,5598
+4488,5643
+4488,5683
+4488,5723
+4488,5761
+4488,5798
+4488,5833
+4488,5865
+4488,5897
+4488,5928
+4488,5959
+4488,5988
+4488,6017
+4488,6047
+4488,6080
+4488,6114
+4488,6149
+4488,6183
+4488,6218
+4488,6254
+4488,6289
+4488,6325
+4488,6361
+4488,6396
+4488,6433
+4488,6468
+4488,6502
+4488,6537
+4488,6570
+4488,6602
+4488,6633
+4488,6662
+4488,6690
+4488,6717
+4488,6742
+4488,6765
+4488,6787
+4488,6808
+4488,6826
+4488,7003
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5905,5586
+5905,5089
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5905,6507
+5905,7003
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
@@ -297,19 +435,31 @@ stroke-linejoin:miter; stroke-linecap:butt;
 fill:#90ed90;
 "/>
 <!-- Line: box -->
+<rect x="5337" y="5586" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
 <rect x="6754" y="5586" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffffff;
 "/>
 <!-- Line: box -->
-<rect x="6754" y="7003" width="1133" height="920" rx="0" 
+<rect x="5337" y="2751" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffffff;
 "/>
 <!-- Line: box -->
 <rect x="5337" y="8420" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="6754" y="7003" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffffff;
@@ -339,19 +489,19 @@ stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffffff;
 "/>
 <!-- Line: box -->
-<rect x="5337" y="5586" width="1133" height="920" rx="0" 
+<rect x="3920" y="4169" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffffff;
 "/>
 <!-- Line: box -->
-<rect x="3920" y="5586" width="1133" height="920" rx="0" 
+<rect x="2503" y="4169" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffffff;
 "/>
 <!-- Line: box -->
-<rect x="2503" y="5586" width="1133" height="920" rx="0" 
+<rect x="1086" y="4169" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffffff;
@@ -362,27 +512,43 @@ style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffffff;
 "/>
-<!-- Line: box -->
-<rect x="1086" y="7003" width="1133" height="920" rx="0" 
-style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#ffffff;
-"/>
 <!-- Text -->
-<text xml:space="preserve" x="8745" y="2949" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">turtle</text>
+<text xml:space="preserve" x="8745" y="2949" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Turtle</text>
 <!-- Text -->
-<text xml:space="preserve" x="8745" y="3123" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">courtyard</text>
+<text xml:space="preserve" x="8745" y="3123" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Courtyard</text>
 <!-- Text -->
-<text xml:space="preserve" x="8745" y="3446" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">rusty key</text>
+<text xml:space="preserve" x="8745" y="3446" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">Rusty Key</text>
 <!-- Text -->
-<text xml:space="preserve" x="7328" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">stone steps</text>
+<text xml:space="preserve" x="7328" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Stone Steps</text>
 <!-- Text -->
-<text xml:space="preserve" x="4493" y="7698" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">sphere</text>
+<text xml:space="preserve" x="5910" y="6091" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
 <!-- Text -->
-<text xml:space="preserve" x="1658" y="7201" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">cellar maze</text>
+<text xml:space="preserve" x="7328" y="6091" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
 <!-- Text -->
-<text xml:space="preserve" x="1658" y="7375" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">(1)</text>
+<text xml:space="preserve" x="5910" y="3256" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
 <!-- Text -->
-<text xml:space="preserve" x="1658" y="7698" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">exit [U]</text>
+<text xml:space="preserve" x="5910" y="8925" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="7508" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="7508" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="7288" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="7698" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">Sphere</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="7508" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="1658" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="1658" y="6004" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cellar Maze</text>
+<!-- Text -->
+<text xml:space="preserve" x="1658" y="6178" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">(1)</text>
 </g>
 </svg>

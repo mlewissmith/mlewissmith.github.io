@@ -2,10 +2,22 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
-<!-- CreationDate: Thu Sep 13 11:33:50 2018 -->
+<!-- CreationDate: Mon Sep 17 14:58:49 2018 -->
 <!-- Magnification: 1.050 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="7.0in" height="5.6in" viewBox="1002 2739 8415 6686">
 <g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="8101" y="5656" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="8101" y="2822" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
 <!-- Line: box -->
 <rect x="6684" y="4239" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
@@ -93,6 +105,12 @@ stroke-linejoin:miter; stroke-linecap:butt;
 <!-- Line -->
 <polyline points="9307,3212
 9405,3212
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3637,5089
+3736,5264
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
@@ -252,13 +270,13 @@ stroke-linejoin:miter; stroke-linecap:butt;
 <rect x="8172" y="5586" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
-stroke-dasharray:10 10;fill:#ffffff;
+fill:#ffffff;
 "/>
 <!-- Line: box -->
 <rect x="8172" y="2751" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
-stroke-dasharray:10 10;fill:#ffffff;
+fill:#ffffff;
 "/>
 <!-- Line: box -->
 <rect x="6754" y="4169" width="1133" height="920" rx="0" 
@@ -339,54 +357,52 @@ stroke-linejoin:miter; stroke-linecap:butt;
 fill:#90ed90;
 "/>
 <!-- Text -->
-<text xml:space="preserve" x="8745" y="6091" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">long passage</text>
+<text xml:space="preserve" x="8745" y="6004" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Long Passage</text>
 <!-- Text -->
-<text xml:space="preserve" x="8745" y="3169" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">top of spiral</text>
+<text xml:space="preserve" x="8745" y="6178" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">(4)</text>
 <!-- Text -->
-<text xml:space="preserve" x="8745" y="3343" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">staircase (2)</text>
+<text xml:space="preserve" x="8745" y="3169" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Top of Spiral</text>
 <!-- Text -->
-<text xml:space="preserve" x="7328" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">boiler room</text>
+<text xml:space="preserve" x="8745" y="3343" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Staircase (2)</text>
 <!-- Text -->
-<text xml:space="preserve" x="4493" y="4366" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">large</text>
+<text xml:space="preserve" x="7328" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Boiler Room</text>
 <!-- Text -->
-<text xml:space="preserve" x="4493" y="4540" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">cupboard</text>
+<text xml:space="preserve" x="4493" y="4366" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Large</text>
 <!-- Text -->
-<text xml:space="preserve" x="4493" y="4864" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">cube</text>
+<text xml:space="preserve" x="4493" y="4540" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cupboard</text>
 <!-- Text -->
-<text xml:space="preserve" x="5910" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">L-shaped room</text>
+<text xml:space="preserve" x="4493" y="4864" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">Cube</text>
 <!-- Text -->
-<text xml:space="preserve" x="3076" y="4366" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">telephone</text>
+<text xml:space="preserve" x="5910" y="4674" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">L-shaped Room</text>
 <!-- Text -->
-<text xml:space="preserve" x="3076" y="4540" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">room (1)</text>
+<text xml:space="preserve" x="3076" y="4586" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Telephone</text>
 <!-- Text -->
-<text xml:space="preserve" x="3076" y="4811" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">exit [D], telephone,</text>
+<text xml:space="preserve" x="3076" y="4761" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Room (1)</text>
 <!-- Text -->
-<text xml:space="preserve" x="3076" y="4916" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">chest</text>
+<text xml:space="preserve" x="1658" y="4586" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Narrow</text>
 <!-- Text -->
-<text xml:space="preserve" x="1658" y="4586" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">narrow</text>
+<text xml:space="preserve" x="1658" y="4761" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Passage</text>
 <!-- Text -->
-<text xml:space="preserve" x="1658" y="4761" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">passage</text>
+<text xml:space="preserve" x="1658" y="6004" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Narrow</text>
 <!-- Text -->
-<text xml:space="preserve" x="1658" y="6004" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">narrow</text>
+<text xml:space="preserve" x="1658" y="6178" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Passage</text>
 <!-- Text -->
-<text xml:space="preserve" x="1658" y="6178" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">passage</text>
+<text xml:space="preserve" x="1658" y="7421" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Narrow</text>
 <!-- Text -->
-<text xml:space="preserve" x="1658" y="7421" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">narrow</text>
+<text xml:space="preserve" x="1658" y="7595" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Passage</text>
 <!-- Text -->
-<text xml:space="preserve" x="1658" y="7595" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">passage</text>
+<text xml:space="preserve" x="3076" y="7508" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Creeper room</text>
 <!-- Text -->
-<text xml:space="preserve" x="3076" y="7508" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">creeper room</text>
+<text xml:space="preserve" x="3076" y="5870" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Workshop</text>
 <!-- Text -->
-<text xml:space="preserve" x="3076" y="6091" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">workshop</text>
+<text xml:space="preserve" x="3076" y="6281" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">Tetrahedron</text>
 <!-- Text -->
-<text xml:space="preserve" x="7328" y="6091" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">store room</text>
+<text xml:space="preserve" x="7328" y="6091" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Store Room</text>
 <!-- Text -->
-<text xml:space="preserve" x="5910" y="5870" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">old kitchen</text>
+<text xml:space="preserve" x="5910" y="6091" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Old Kitchen</text>
 <!-- Text -->
-<text xml:space="preserve" x="5910" y="6281" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">tetrahedron</text>
+<text xml:space="preserve" x="5910" y="7508" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Hallway</text>
 <!-- Text -->
-<text xml:space="preserve" x="5910" y="7508" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">hallway</text>
-<!-- Text -->
-<text xml:space="preserve" x="5910" y="8925" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">START</text>
+<text xml:space="preserve" x="5910" y="8925" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">#_START_#</text>
 </g>
 </svg>
