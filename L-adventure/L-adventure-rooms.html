@@ -10,24 +10,18 @@
 <!-- toc -->
 <ul>
 <li>
-<a href="#map1">ENTRANCE</a>
+<a href="#map1">Palace Entrance</a>
 </li>
 <li>
-<a href="#map2">CELLAR</a>
+<a href="#map2">Cellar</a>
 </li>
 <li>
-<a href="#map3">FLOOR 1</a>
-</li>
-<li>
-<a href="#map4">Map section 4</a>
-</li>
-<li>
-<a href="#map5">Map section 5</a>
+<a href="#map3">Inside the Palace</a>
 </li>
 </ul>
 <!-- toc -->
 <!-- BEGIN map 1 -->
-<h2><a name="map1" id="map1" href="L-adventure-rooms.html">ENTRANCE</a></h2>
+<h2><a name="map1" id="map1" href="L-adventure-rooms.html">Palace Entrance</a></h2>
 <div><object type="image/svg+xml" data="L-adventure-map1.svg">[L-adventure-map1.svg]</object></div>
 <dl>
 <!-- BEGIN room 1:0 -->
@@ -50,11 +44,14 @@
 
 <!-- BEGIN room 1:5 -->
 <dt class="room">
-<a name="room5" id="room5" href="#map1">Creeper room</a>
+<a name="room5" id="room5" href="#map1">Creeper Room</a>
 </dt>
 <!-- BEGIN exit 1:5 -->
 <dd>Exits: <a href="#room4"><span class="room">Workshop</span></a>, <a href="#room6"><span class="room">Narrow Passage</span></a>.</dd>
 <!-- END exit 1:5 -->
+<!-- BEGIN items 1:5 -->
+<dd>Items: <a href="L-adventure-items.html#item2"><span class="item">Rope Ladder</span></a> (hidden).</dd>
+<!-- END items 1:5 -->
 <!-- END room 1:5 -->
 
 <!-- BEGIN room 1:1 -->
@@ -65,6 +62,18 @@
 <dd>Exits: <a href="#room2"><span class="room">Old Kitchen</span></a>.</dd>
 <!-- END exit 1:1 -->
 <!-- END room 1:1 -->
+
+<!-- BEGIN room 1:70 -->
+<dt class="room">
+<a name="room70" id="room70" href="#map1">Key Room</a>
+</dt>
+<!-- BEGIN exit 1:70 -->
+<dd>Exits: <a href="#room69"><span class="room">Long Passage</span></a>, <a href="#room71"><span class="room">Panelled Room</span></a>.</dd>
+<!-- END exit 1:70 -->
+<!-- BEGIN tasks 1:70 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task116"><span class="task">KEY PUZZLE</span></a>.</dd>
+<!-- END tasks 1:70 -->
+<!-- END room 1:70 -->
 
 <!-- BEGIN room 1:10 -->
 <dt class="room">
@@ -87,14 +96,38 @@
 <!-- END items 1:11 -->
 <!-- END room 1:11 -->
 
+<!-- BEGIN room 1:74 -->
+<dt class="room">
+<a name="room74" id="room74" href="#map1">Lawn</a>
+</dt>
+<!-- BEGIN exit 1:74 -->
+<dd>Exits: <a href="#room73"><span class="room">Walled Garden</span></a>, <a href="#room75"><span class="room">North Bank</span></a>.</dd>
+<!-- END exit 1:74 -->
+<!-- BEGIN items 1:74 -->
+<dd>Items: <a href="L-adventure-items.html#item18"><span class="item">Bath</span></a>.</dd>
+<!-- END items 1:74 -->
+<!-- BEGIN tasks 1:74 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task117"><span class="task">BATH PUZZLE</span></a>.</dd>
+<!-- END tasks 1:74 -->
+<!-- END room 1:74 -->
+
 <!-- BEGIN room 1:14 -->
 <dt class="room">
 <a name="room14" id="room14" href="#map1">Long Passage</a>
 </dt>
 <!-- BEGIN exit 1:14 -->
-<dd>Exits: <a href="#room12"><span class="room">Boiler Room</span></a>, <a href="#room51"><span class="room">Map section 5:Long Passage</span></a>.</dd>
+<dd>Exits: <a href="#room12"><span class="room">Boiler Room</span></a>, <a href="#room69"><span class="room">Long Passage</span></a>.</dd>
 <!-- END exit 1:14 -->
 <!-- END room 1:14 -->
+
+<!-- BEGIN room 1:69 -->
+<dt class="room">
+<a name="room69" id="room69" href="#map1">Long Passage</a>
+</dt>
+<!-- BEGIN exit 1:69 -->
+<dd>Exits: <a href="#room14"><span class="room">Long Passage</span></a>, <a href="#room70"><span class="room">Key Room</span></a>.</dd>
+<!-- END exit 1:69 -->
+<!-- END room 1:69 -->
 
 <!-- BEGIN room 1:7 -->
 <dt class="room">
@@ -110,7 +143,7 @@
 <a name="room6" id="room6" href="#map1">Narrow Passage</a>
 </dt>
 <!-- BEGIN exit 1:6 -->
-<dd>Exits: <a href="#room5"><span class="room">Creeper room</span></a>, <a href="#room7"><span class="room">Narrow Passage</span></a>.</dd>
+<dd>Exits: <a href="#room5"><span class="room">Creeper Room</span></a>, <a href="#room7"><span class="room">Narrow Passage</span></a>.</dd>
 <!-- END exit 1:6 -->
 <!-- END room 1:6 -->
 
@@ -123,6 +156,18 @@
 <!-- END exit 1:8 -->
 <!-- END room 1:8 -->
 
+<!-- BEGIN room 1:75 -->
+<dt class="room">
+<a name="room75" id="room75" href="#map1">North Bank</a>
+</dt>
+<!-- BEGIN exit 1:75 -->
+<dd>Exits: <a href="#room74"><span class="room">Lawn</span></a>, <a href="#room76"><span class="room">Orchard</span></a>.</dd>
+<!-- END exit 1:75 -->
+<!-- BEGIN tasks 1:75 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task119"><span class="task">APE PUZZLE</span></a>.</dd>
+<!-- END tasks 1:75 -->
+<!-- END room 1:75 -->
+
 <!-- BEGIN room 1:2 -->
 <dt class="room">
 <a name="room2" id="room2" href="#map1">Old Kitchen</a>
@@ -131,6 +176,33 @@
 <dd>Exits: <a href="#room1"><span class="room">Hallway</span></a>, <a href="#room3"><span class="room">Store Room</span></a>, <a href="#room4"><span class="room">Workshop</span></a>, <a href="#room10"><span class="room">L-shaped Room</span></a>.</dd>
 <!-- END exit 1:2 -->
 <!-- END room 1:2 -->
+
+<!-- BEGIN room 1:76 -->
+<dt class="room">
+<a name="room76" id="room76" href="#map1">Orchard</a>
+</dt>
+<!-- BEGIN exit 1:76 -->
+<dd>Exits: <a href="#room75"><span class="room">North Bank</span></a>.</dd>
+<!-- END exit 1:76 -->
+<!-- BEGIN items 1:76 -->
+<dd>Items: <a href="L-adventure-items.html#item19"><span class="item">Rope Ladder</span></a>.</dd>
+<!-- END items 1:76 -->
+<!-- BEGIN tasks 1:76 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task118"><span class="task">GARDENER&#39;S PUZZLE</span></a>.</dd>
+<!-- END tasks 1:76 -->
+<!-- END room 1:76 -->
+
+<!-- BEGIN room 1:71 -->
+<dt class="room">
+<a name="room71" id="room71" href="#map1">Panelled Room</a>
+</dt>
+<!-- BEGIN exit 1:71 -->
+<dd>Exits: <a href="#room70"><span class="room">Key Room</span></a>, <a href="#room72"><span class="room">Walled Garden</span></a>.</dd>
+<!-- END exit 1:71 -->
+<!-- BEGIN items 1:71 -->
+<dd>Items: <a href="L-adventure-items.html#item17"><span class="item">Octahedron</span></a>.</dd>
+<!-- END items 1:71 -->
+<!-- END room 1:71 -->
 
 <!-- BEGIN room 1:3 -->
 <dt class="room">
@@ -146,10 +218,10 @@
 <a name="room9" id="room9" href="#map1">Telephone Room</a>
 </dt>
 <!-- BEGIN exit 1:9 -->
-<dd>Exits: <a href="#room8"><span class="room">Narrow Passage</span></a>, <a href="#room15"><span class="room">CELLAR:Cellar Maze</span></a>.</dd>
+<dd>Exits: <a href="#room8"><span class="room">Narrow Passage</span></a>, <a href="#room15"><span class="room">Cellar:Cellar Maze</span></a>.</dd>
 <!-- END exit 1:9 -->
 <!-- BEGIN tasks 1:9 -->
-<dd>Tasks: <a href="L-adventure-tasks.html#task70"><span class="task">PUSH CHEST</span></a>.</dd>
+<dd>Tasks: <a href="L-adventure-tasks.html#task97"><span class="task">PUSH CHEST</span></a>.</dd>
 <!-- END tasks 1:9 -->
 <!-- END room 1:9 -->
 
@@ -158,19 +230,34 @@
 <a name="room13" id="room13" href="#map1">Top of Spiral Staircase</a>
 </dt>
 <!-- BEGIN exit 1:13 -->
-<dd>Exits: <a href="#room12"><span class="room">Boiler Room</span></a>, <a href="#room30"><span class="room">FLOOR 1:Pool Room</span></a>.</dd>
+<dd>Exits: <a href="#room12"><span class="room">Boiler Room</span></a>, <a href="#room30"><span class="room">Inside the Palace:Pool Room</span></a>.</dd>
 <!-- END exit 1:13 -->
-<!-- BEGIN tasks 1:13 -->
-<dd>Tasks: <a href="L-adventure-tasks.html#task78"><span class="task">FINISH</span></a>.</dd>
-<!-- END tasks 1:13 -->
 <!-- END room 1:13 -->
+
+<!-- BEGIN room 1:72 -->
+<dt class="room">
+<a name="room72" id="room72" href="#map1">Walled Garden</a>
+</dt>
+<!-- BEGIN exit 1:72 -->
+<dd>Exits: <a href="#room71"><span class="room">Panelled Room</span></a>, <a href="#room73"><span class="room">Walled Garden</span></a>.</dd>
+<!-- END exit 1:72 -->
+<!-- END room 1:72 -->
+
+<!-- BEGIN room 1:73 -->
+<dt class="room">
+<a name="room73" id="room73" href="#map1">Walled Garden</a>
+</dt>
+<!-- BEGIN exit 1:73 -->
+<dd>Exits: <a href="#room40"><span class="room">Inside the Palace:Balcony</span></a>, <a href="#room72"><span class="room">Walled Garden</span></a>, <a href="#room74"><span class="room">Lawn</span></a>.</dd>
+<!-- END exit 1:73 -->
+<!-- END room 1:73 -->
 
 <!-- BEGIN room 1:4 -->
 <dt class="room">
 <a name="room4" id="room4" href="#map1">Workshop</a>
 </dt>
 <!-- BEGIN exit 1:4 -->
-<dd>Exits: <a href="#room2"><span class="room">Old Kitchen</span></a>, <a href="#room5"><span class="room">Creeper room</span></a>, <a href="#room7"><span class="room">Narrow Passage</span></a>.</dd>
+<dd>Exits: <a href="#room2"><span class="room">Old Kitchen</span></a>, <a href="#room5"><span class="room">Creeper Room</span></a>, <a href="#room7"><span class="room">Narrow Passage</span></a>.</dd>
 <!-- END exit 1:4 -->
 <!-- BEGIN items 1:4 -->
 <dd>Items: <a href="L-adventure-items.html#item0"><span class="item">Tetrahedron</span></a>.</dd>
@@ -181,7 +268,7 @@
 <!-- END map 1 -->
 
 <!-- BEGIN map 2 -->
-<h2><a name="map2" id="map2" href="L-adventure-rooms.html">CELLAR</a></h2>
+<h2><a name="map2" id="map2" href="L-adventure-rooms.html">Cellar</a></h2>
 <div><object type="image/svg+xml" data="L-adventure-map2.svg">[L-adventure-map2.svg]</object></div>
 <dl>
 <!-- BEGIN room 2:21 -->
@@ -192,7 +279,7 @@
 <dd>Exits: <a href="#room18"><span class="room">Cellar Maze</span></a>, <a href="#room20"><span class="room">Cellar Maze</span></a>, <a href="#room22"><span class="room">Cellar Maze</span></a>.</dd>
 <!-- END exit 2:21 -->
 <!-- BEGIN items 2:21 -->
-<dd>Items: <a href="L-adventure-items.html#item2"><span class="item">Sphere</span></a>.</dd>
+<dd>Items: <a href="L-adventure-items.html#item3"><span class="item">Sphere</span></a>.</dd>
 <!-- END items 2:21 -->
 <!-- END room 2:21 -->
 
@@ -204,15 +291,6 @@
 <dd>Exits: <a href="#room23"><span class="room">Cellar Maze</span></a>, <a href="#room27"><span class="room">Cellar Maze</span></a>, <a href="#room28"><span class="room">Stone Steps</span></a>.</dd>
 <!-- END exit 2:26 -->
 <!-- END room 2:26 -->
-
-<!-- BEGIN room 2:17 -->
-<dt class="room">
-<a name="room17" id="room17" href="#map2">Cellar Maze</a>
-</dt>
-<!-- BEGIN exit 2:17 -->
-<dd>Exits: <a href="#room16"><span class="room">Cellar Maze</span></a>, <a href="#room18"><span class="room">Cellar Maze</span></a>, <a href="#room20"><span class="room">Cellar Maze</span></a>.</dd>
-<!-- END exit 2:17 -->
-<!-- END room 2:17 -->
 
 <!-- BEGIN room 2:18 -->
 <dt class="room">
@@ -232,15 +310,6 @@
 <!-- END exit 2:16 -->
 <!-- END room 2:16 -->
 
-<!-- BEGIN room 2:25 -->
-<dt class="room">
-<a name="room25" id="room25" href="#map2">Cellar Maze</a>
-</dt>
-<!-- BEGIN exit 2:25 -->
-<dd>Exits: <a href="#room19"><span class="room">Cellar Maze</span></a>.</dd>
-<!-- END exit 2:25 -->
-<!-- END room 2:25 -->
-
 <!-- BEGIN room 2:27 -->
 <dt class="room">
 <a name="room27" id="room27" href="#map2">Cellar Maze</a>
@@ -258,6 +327,42 @@
 <dd>Exits: <a href="#room17"><span class="room">Cellar Maze</span></a>, <a href="#room21"><span class="room">Cellar Maze</span></a>.</dd>
 <!-- END exit 2:20 -->
 <!-- END room 2:20 -->
+
+<!-- BEGIN room 2:15 -->
+<dt class="room">
+<a name="room15" id="room15" href="#map2">Cellar Maze</a>
+</dt>
+<!-- BEGIN exit 2:15 -->
+<dd>Exits: <a href="#room9"><span class="room">Palace Entrance:Telephone Room</span></a>, <a href="#room16"><span class="room">Cellar Maze</span></a>.</dd>
+<!-- END exit 2:15 -->
+<!-- END room 2:15 -->
+
+<!-- BEGIN room 2:19 -->
+<dt class="room">
+<a name="room19" id="room19" href="#map2">Cellar Maze</a>
+</dt>
+<!-- BEGIN exit 2:19 -->
+<dd>Exits: <a href="#room18"><span class="room">Cellar Maze</span></a>, <a href="#room25"><span class="room">Cellar Maze</span></a>, <a href="#room27"><span class="room">Cellar Maze</span></a>.</dd>
+<!-- END exit 2:19 -->
+<!-- END room 2:19 -->
+
+<!-- BEGIN room 2:17 -->
+<dt class="room">
+<a name="room17" id="room17" href="#map2">Cellar Maze</a>
+</dt>
+<!-- BEGIN exit 2:17 -->
+<dd>Exits: <a href="#room16"><span class="room">Cellar Maze</span></a>, <a href="#room18"><span class="room">Cellar Maze</span></a>, <a href="#room20"><span class="room">Cellar Maze</span></a>.</dd>
+<!-- END exit 2:17 -->
+<!-- END room 2:17 -->
+
+<!-- BEGIN room 2:25 -->
+<dt class="room">
+<a name="room25" id="room25" href="#map2">Cellar Maze</a>
+</dt>
+<!-- BEGIN exit 2:25 -->
+<dd>Exits: <a href="#room19"><span class="room">Cellar Maze</span></a>.</dd>
+<!-- END exit 2:25 -->
+<!-- END room 2:25 -->
 
 <!-- BEGIN room 2:24 -->
 <dt class="room">
@@ -286,24 +391,6 @@
 <!-- END exit 2:23 -->
 <!-- END room 2:23 -->
 
-<!-- BEGIN room 2:15 -->
-<dt class="room">
-<a name="room15" id="room15" href="#map2">Cellar Maze</a>
-</dt>
-<!-- BEGIN exit 2:15 -->
-<dd>Exits: <a href="#room9"><span class="room">ENTRANCE:Telephone Room</span></a>, <a href="#room16"><span class="room">Cellar Maze</span></a>.</dd>
-<!-- END exit 2:15 -->
-<!-- END room 2:15 -->
-
-<!-- BEGIN room 2:19 -->
-<dt class="room">
-<a name="room19" id="room19" href="#map2">Cellar Maze</a>
-</dt>
-<!-- BEGIN exit 2:19 -->
-<dd>Exits: <a href="#room18"><span class="room">Cellar Maze</span></a>, <a href="#room25"><span class="room">Cellar Maze</span></a>, <a href="#room27"><span class="room">Cellar Maze</span></a>.</dd>
-<!-- END exit 2:19 -->
-<!-- END room 2:19 -->
-
 <!-- BEGIN room 2:28 -->
 <dt class="room">
 <a name="room28" id="room28" href="#map2">Stone Steps</a>
@@ -321,15 +408,18 @@
 <dd>Exits: <a href="#room28"><span class="room">Stone Steps</span></a>.</dd>
 <!-- END exit 2:29 -->
 <!-- BEGIN items 2:29 -->
-<dd>Items: <a href="L-adventure-items.html#item3"><span class="item">Rusty Key</span></a>.</dd>
+<dd>Items: <a href="L-adventure-items.html#item4"><span class="item">Rusty Key</span></a>.</dd>
 <!-- END items 2:29 -->
+<!-- BEGIN tasks 2:29 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task98"><span class="task">TURTLE PUZZLE</span></a>.</dd>
+<!-- END tasks 2:29 -->
 <!-- END room 2:29 -->
 
 </dl>
 <!-- END map 2 -->
 
 <!-- BEGIN map 3 -->
-<h2><a name="map3" id="map3" href="L-adventure-rooms.html">FLOOR 1</a></h2>
+<h2><a name="map3" id="map3" href="L-adventure-rooms.html">Inside the Palace</a></h2>
 <div><object type="image/svg+xml" data="L-adventure-map3.svg">[L-adventure-map3.svg]</object></div>
 <dl>
 <!-- BEGIN room 3:41 -->
@@ -341,32 +431,146 @@
 <!-- END exit 3:41 -->
 <!-- END room 3:41 -->
 
+<!-- BEGIN room 3:60 -->
+<dt class="room">
+<a name="room60" id="room60" href="#map3">Attic Passage</a>
+</dt>
+<!-- BEGIN exit 3:60 -->
+<dd>Exits: <a href="#room61"><span class="room">Attic Room</span></a>, <a href="#room62"><span class="room">Green Room</span></a>.</dd>
+<!-- END exit 3:60 -->
+<!-- END room 3:60 -->
+
+<!-- BEGIN room 3:61 -->
+<dt class="room">
+<a name="room61" id="room61" href="#map3">Attic Room</a>
+</dt>
+<!-- BEGIN exit 3:61 -->
+<dd>Exits: <a href="#room60"><span class="room">Attic Passage</span></a>.</dd>
+<!-- END exit 3:61 -->
+<!-- BEGIN NOTES 3:61 -->
+<dd>DROGO CELL</dd>
+<!-- END NOTES 3:61 -->
+<!-- END room 3:61 -->
+
 <!-- BEGIN room 3:40 -->
 <dt class="room">
 <a name="room40" id="room40" href="#map3">Balcony</a>
 </dt>
 <!-- BEGIN exit 3:40 -->
-<dd>Exits: <a href="#room37"><span class="room">Solarium</span></a>, <a href="#room55"><span class="room">Map section 5:Walled Garden</span></a>.</dd>
+<dd>Exits: <a href="#room37"><span class="room">Solarium</span></a>, <a href="#room73"><span class="room">Palace Entrance:Walled Garden</span></a>.</dd>
 <!-- END exit 3:40 -->
 <!-- END room 3:40 -->
+
+<!-- BEGIN room 3:51 -->
+<dt class="room">
+<a name="room51" id="room51" href="#map3">Bat Room</a>
+</dt>
+<!-- BEGIN exit 3:51 -->
+<dd>Exits: <a href="#room49"><span class="room">Circular Room</span></a>, <a href="#room50"><span class="room">Six-sided Room</span></a>, <a href="#room52"><span class="room">Blue Room</span></a>.</dd>
+<!-- END exit 3:51 -->
+<!-- END room 3:51 -->
+
+<!-- BEGIN room 3:52 -->
+<dt class="room">
+<a name="room52" id="room52" href="#map3">Blue Room</a>
+</dt>
+<!-- BEGIN exit 3:52 -->
+<dd>Exits: <a href="#room51"><span class="room">Bat Room</span></a>.</dd>
+<!-- END exit 3:52 -->
+<!-- BEGIN items 3:52 -->
+<dd>Items: <a href="L-adventure-items.html#item12"><span class="item">Bus Ticket</span></a>.</dd>
+<!-- END items 3:52 -->
+<!-- END room 3:52 -->
+
+<!-- BEGIN room 3:63 -->
+<dt class="room">
+<a name="room63" id="room63" href="#map3">Broom Cupboard</a>
+</dt>
+<!-- BEGIN exit 3:63 -->
+<dd>Exits: <a href="#room49"><span class="room">Circular Room</span></a>.</dd>
+<!-- END exit 3:63 -->
+<!-- BEGIN items 3:63 -->
+<dd>Items: <a href="L-adventure-items.html#item14"><span class="item">Calculator</span></a>.</dd>
+<!-- END items 3:63 -->
+<!-- BEGIN tasks 3:63 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task112"><span class="task">CALCULATOR PUZZLE</span></a>.</dd>
+<!-- END tasks 3:63 -->
+<!-- END room 3:63 -->
+
+<!-- BEGIN room 3:68 -->
+<dt class="room">
+<a name="room68" id="room68" href="#map3">Cell</a>
+</dt>
+<!-- BEGIN exit 3:68 -->
+<dd>Exits: <a href="#room54"><span class="room">Guard Room</span></a> (requires <a href="L-adventure-items.html#item16"><span class="item">Gold Ring</span></a>).</dd>
+<!-- END exit 3:68 -->
+<!-- BEGIN tasks 3:68 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task115"><span class="task">DROP RING</span></a>.</dd>
+<!-- END tasks 3:68 -->
+<!-- END room 3:68 -->
+
+<!-- BEGIN room 3:58 -->
+<dt class="room">
+<a name="room58" id="room58" href="#map3">Chimney</a>
+</dt>
+<!-- BEGIN exit 3:58 -->
+<dd>Exits: <a href="#room56"><span class="room">Half-decorated Room</span></a>, <a href="#room59"><span class="room">Chimney</span></a>.</dd>
+<!-- END exit 3:58 -->
+<!-- END room 3:58 -->
+
+<!-- BEGIN room 3:59 -->
+<dt class="room">
+<a name="room59" id="room59" href="#map3">Chimney</a>
+</dt>
+<!-- BEGIN exit 3:59 -->
+<dd>Exits: <a href="#room58"><span class="room">Chimney</span></a>, <a href="#room60"><span class="room">Attic Passage</span></a>.</dd>
+<!-- END exit 3:59 -->
+<!-- BEGIN tasks 3:59 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task109"><span class="task">OPEN TRAPDOOR</span></a>.</dd>
+<!-- END tasks 3:59 -->
+<!-- END room 3:59 -->
+
+<!-- BEGIN room 3:49 -->
+<dt class="room">
+<a name="room49" id="room49" href="#map3">Circular Room</a>
+</dt>
+<!-- BEGIN exit 3:49 -->
+<dd>Exits: <a href="#room48"><span class="room">Wooden Stairs</span></a>, <a href="#room50"><span class="room">Six-sided Room</span></a>, <a href="#room51"><span class="room">Bat Room</span></a>, <a href="#room53"><span class="room">Narrow Passage</span></a>, <a href="#room55"><span class="room">Computer Room</span></a>, <a href="#room56"><span class="room">Half-decorated Room</span></a>, <a href="#room63"><span class="room">Broom Cupboard</span></a>, <a href="#room64"><span class="room">Safe Room</span></a>.</dd>
+<!-- END exit 3:49 -->
+<!-- BEGIN tasks 3:49 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task106"><span class="task">EXAMINE JANITOR</span></a>.</dd>
+<!-- END tasks 3:49 -->
+<!-- END room 3:49 -->
 
 <!-- BEGIN room 3:42 -->
 <dt class="room">
 <a name="room42" id="room42" href="#map3">Code Room</a>
 </dt>
 <!-- BEGIN exit 3:42 -->
-<dd>Exits: <a href="#room41"><span class="room">Ante-Room</span></a>, <a href="#room43"><span class="room">Oriental Room</span></a> (requires <a href="L-adventure-items.html#item7"><span class="item">Spectacles</span></a>).</dd>
+<dd>Exits: <a href="#room41"><span class="room">Ante-Room</span></a>, <a href="#room43"><span class="room">Oriental Room</span></a> (requires <a href="L-adventure-items.html#item8"><span class="item">Spectacles</span></a>).</dd>
 <!-- END exit 3:42 -->
 <!-- BEGIN items 3:42 -->
-<dd>Items: <a href="L-adventure-items.html#item7"><span class="item">Spectacles</span></a>.</dd>
+<dd>Items: <a href="L-adventure-items.html#item8"><span class="item">Spectacles</span></a>.</dd>
 <!-- END items 3:42 -->
 <!-- BEGIN tasks 3:42 -->
-<dd>Tasks: <a href="L-adventure-tasks.html#task74"><span class="task">CODE PUZZLE</span></a>.</dd>
+<dd>Tasks: <a href="L-adventure-tasks.html#task102"><span class="task">CODE PUZZLE</span></a>.</dd>
 <!-- END tasks 3:42 -->
 <!-- BEGIN NOTES 3:42 -->
 <dd>YOU ARE IN THE CODE ROOM.</dd><dd>A PAIR OF FRAIL-LOOKING SPECTACLES IS LYING AT YOUR FEET.</dd>
 <!-- END NOTES 3:42 -->
 <!-- END room 3:42 -->
+
+<!-- BEGIN room 3:55 -->
+<dt class="room">
+<a name="room55" id="room55" href="#map3">Computer Room</a>
+</dt>
+<!-- BEGIN exit 3:55 -->
+<dd>Exits: <a href="#room49"><span class="room">Circular Room</span></a>.</dd>
+<!-- END exit 3:55 -->
+<!-- BEGIN tasks 3:55 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task108"><span class="task">COMPUTER PUZZLE</span></a>.</dd>
+<!-- END tasks 3:55 -->
+<!-- END room 3:55 -->
 
 <!-- BEGIN room 3:46 -->
 <dt class="room">
@@ -376,10 +580,10 @@
 <dd>Exits: <a href="#room44"><span class="room">Stone Staircase</span></a>.</dd>
 <!-- END exit 3:46 -->
 <!-- BEGIN items 3:46 -->
-<dd>Items: <a href="L-adventure-items.html#item9"><span class="item">Oar</span></a>.</dd>
+<dd>Items: <a href="L-adventure-items.html#item10"><span class="item">Oar</span></a>.</dd>
 <!-- END items 3:46 -->
 <!-- BEGIN tasks 3:46 -->
-<dd>Tasks: <a href="L-adventure-tasks.html#task76"><span class="task">ELECTRICIAN&#39;S PUZZLE</span></a>.</dd>
+<dd>Tasks: <a href="L-adventure-tasks.html#task104"><span class="task">ELECTRICIAN&#39;S PUZZLE</span></a>.</dd>
 <!-- END tasks 3:46 -->
 <!-- END room 3:46 -->
 
@@ -388,9 +592,45 @@
 <a name="room34" id="room34" href="#map3">Granite Passage</a>
 </dt>
 <!-- BEGIN exit 3:34 -->
-<dd>Exits: <a href="#room33"><span class="room">Tunnel</span></a>, <a href="#room47"><span class="room">Map section 4:Wooden Stairs</span></a> (requires <a href="L-adventure-items.html#item3"><span class="item">Rusty Key</span></a>).</dd>
+<dd>Exits: <a href="#room33"><span class="room">Tunnel</span></a>, <a href="#room47"><span class="room">Wooden Stairs</span></a>.</dd>
 <!-- END exit 3:34 -->
+<!-- BEGIN tasks 3:34 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task105"><span class="task">UNLOCK DOOR</span></a>.</dd>
+<!-- END tasks 3:34 -->
 <!-- END room 3:34 -->
+
+<!-- BEGIN room 3:62 -->
+<dt class="room">
+<a name="room62" id="room62" href="#map3">Green Room</a>
+</dt>
+<!-- BEGIN exit 3:62 -->
+<dd>Exits: <a href="#room2"><span class="room">Palace Entrance:Old Kitchen</span></a>, <a href="#room60"><span class="room">Attic Passage</span></a>.</dd>
+<!-- END exit 3:62 -->
+<!-- BEGIN items 3:62 -->
+<dd>Items: <a href="L-adventure-items.html#item13"><span class="item">Pig</span></a>.</dd>
+<!-- END items 3:62 -->
+<!-- BEGIN tasks 3:62 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task110"><span class="task">PIG PUZZLE</span></a>, <a href="L-adventure-tasks.html#task111"><span class="task">ESCAPE PRISON</span></a>.</dd>
+<!-- END tasks 3:62 -->
+<!-- END room 3:62 -->
+
+<!-- BEGIN room 3:54 -->
+<dt class="room">
+<a name="room54" id="room54" href="#map3">Guard Room</a>
+</dt>
+<!-- BEGIN exit 3:54 -->
+<dd>Exits: <a href="#room53"><span class="room">Narrow Passage</span></a> (requires <a href="L-adventure-items.html#item16"><span class="item">Gold Ring</span></a>), <a href="#room61"><span class="room">Attic Room</span></a>, <a href="#room68"><span class="room">Cell</span></a> (requires <a href="L-adventure-items.html#item16"><span class="item">Gold Ring</span></a>).</dd>
+<!-- END exit 3:54 -->
+<!-- END room 3:54 -->
+
+<!-- BEGIN room 3:56 -->
+<dt class="room">
+<a name="room56" id="room56" href="#map3">Half-decorated Room</a>
+</dt>
+<!-- BEGIN exit 3:56 -->
+<dd>Exits: <a href="#room49"><span class="room">Circular Room</span></a>, <a href="#room57"><span class="room">Long Corridor</span></a>, <a href="#room58"><span class="room">Chimney</span></a>.</dd>
+<!-- END exit 3:56 -->
+<!-- END room 3:56 -->
 
 <!-- BEGIN room 3:39 -->
 <dt class="room">
@@ -409,12 +649,21 @@
 <dd>Exits: <a href="#room39"><span class="room">Landing</span></a>.</dd>
 <!-- END exit 3:45 -->
 <!-- BEGIN items 3:45 -->
-<dd>Items: <a href="L-adventure-items.html#item8"><span class="item">Icosahedron</span></a>.</dd>
+<dd>Items: <a href="L-adventure-items.html#item9"><span class="item">Icosahedron</span></a>.</dd>
 <!-- END items 3:45 -->
 <!-- BEGIN tasks 3:45 -->
-<dd>Tasks: <a href="L-adventure-tasks.html#task75"><span class="task">COOK&#39;S PUZZLE</span></a>.</dd>
+<dd>Tasks: <a href="L-adventure-tasks.html#task103"><span class="task">COOK&#39;S PUZZLE</span></a>.</dd>
 <!-- END tasks 3:45 -->
 <!-- END room 3:45 -->
+
+<!-- BEGIN room 3:57 -->
+<dt class="room">
+<a name="room57" id="room57" href="#map3">Long Corridor</a>
+</dt>
+<!-- BEGIN exit 3:57 -->
+<dd>Exits: <a href="#room56"><span class="room">Half-decorated Room</span></a>.</dd>
+<!-- END exit 3:57 -->
+<!-- END room 3:57 -->
 
 <!-- BEGIN room 3:36 -->
 <dt class="room">
@@ -424,12 +673,21 @@
 <dd>Exits: <a href="#room35"><span class="room">Orange Lobby</span></a>, <a href="#room37"><span class="room">Solarium</span></a>.</dd>
 <!-- END exit 3:36 -->
 <!-- BEGIN items 3:36 -->
-<dd>Items: <a href="L-adventure-items.html#item4"><span class="item">Bottle</span></a>, <a href="L-adventure-items.html#item5"><span class="item">Phial</span></a>.</dd>
+<dd>Items: <a href="L-adventure-items.html#item5"><span class="item">Bottle</span></a>, <a href="L-adventure-items.html#item6"><span class="item">Phial</span></a>.</dd>
 <!-- END items 3:36 -->
 <!-- BEGIN tasks 3:36 -->
-<dd>Tasks: <a href="L-adventure-tasks.html#task71"><span class="task">PIANO PUZZLE</span></a>.</dd>
+<dd>Tasks: <a href="L-adventure-tasks.html#task99"><span class="task">PIANO PUZZLE</span></a>.</dd>
 <!-- END tasks 3:36 -->
 <!-- END room 3:36 -->
+
+<!-- BEGIN room 3:53 -->
+<dt class="room">
+<a name="room53" id="room53" href="#map3">Narrow Passage</a>
+</dt>
+<!-- BEGIN exit 3:53 -->
+<dd>Exits: <a href="#room49"><span class="room">Circular Room</span></a>, <a href="#room54"><span class="room">Guard Room</span></a> (requires <a href="L-adventure-items.html#item16"><span class="item">Gold Ring</span></a>).</dd>
+<!-- END exit 3:53 -->
+<!-- END room 3:53 -->
 
 <!-- BEGIN room 3:35 -->
 <dt class="room">
@@ -445,10 +703,10 @@
 <a name="room43" id="room43" href="#map3">Oriental Room</a>
 </dt>
 <!-- BEGIN exit 3:43 -->
-<dd>Exits: <a href="#room42"><span class="room">Code Room</span></a> (requires <a href="L-adventure-items.html#item7"><span class="item">Spectacles</span></a>).</dd>
+<dd>Exits: <a href="#room42"><span class="room">Code Room</span></a> (requires <a href="L-adventure-items.html#item8"><span class="item">Spectacles</span></a>).</dd>
 <!-- END exit 3:43 -->
 <!-- BEGIN items 3:43 -->
-<dd>Items: <a href="L-adventure-items.html#item6"><span class="item">Dodecahedron</span></a>.</dd>
+<dd>Items: <a href="L-adventure-items.html#item7"><span class="item">Dodecahedron</span></a>.</dd>
 <!-- END items 3:43 -->
 <!-- END room 3:43 -->
 
@@ -457,9 +715,36 @@
 <a name="room30" id="room30" href="#map3">Pool Room</a>
 </dt>
 <!-- BEGIN exit 3:30 -->
-<dd>Exits: <a href="#room13"><span class="room">ENTRANCE:Top of Spiral Staircase</span></a>, <a href="#room31"><span class="room">Swimming Pool</span></a>, <a href="#room35"><span class="room">Orange Lobby</span></a>.</dd>
+<dd>Exits: <a href="#room13"><span class="room">Palace Entrance:Top of Spiral Staircase</span></a>, <a href="#room31"><span class="room">Swimming Pool</span></a>, <a href="#room35"><span class="room">Orange Lobby</span></a>.</dd>
 <!-- END exit 3:30 -->
 <!-- END room 3:30 -->
+
+<!-- BEGIN room 3:64 -->
+<dt class="room">
+<a name="room64" id="room64" href="#map3">Safe Room</a>
+</dt>
+<!-- BEGIN exit 3:64 -->
+<dd>Exits: <a href="#room49"><span class="room">Circular Room</span></a>, <a href="#room65"><span class="room">Soft Passage</span></a>.</dd>
+<!-- END exit 3:64 -->
+<!-- BEGIN items 3:64 -->
+<dd>Items: <a href="L-adventure-items.html#item15"><span class="item">Safe</span></a>.</dd>
+<!-- END items 3:64 -->
+<!-- BEGIN tasks 3:64 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task113"><span class="task">UNLOCK SAFE</span></a>.</dd>
+<!-- END tasks 3:64 -->
+<!-- END room 3:64 -->
+
+<!-- BEGIN room 3:50 -->
+<dt class="room">
+<a name="room50" id="room50" href="#map3">Six-sided Room</a>
+</dt>
+<!-- BEGIN exit 3:50 -->
+<dd>Exits: <a href="#room49"><span class="room">Circular Room</span></a>, <a href="#room51"><span class="room">Bat Room</span></a>.</dd>
+<!-- END exit 3:50 -->
+<!-- BEGIN NOTES 3:50 -->
+<dd>CROWTHER WOODS</dd>
+<!-- END NOTES 3:50 -->
+<!-- END room 3:50 -->
 
 <!-- BEGIN room 3:38 -->
 <dt class="room">
@@ -470,6 +755,24 @@
 <!-- END exit 3:38 -->
 <!-- END room 3:38 -->
 
+<!-- BEGIN room 3:65 -->
+<dt class="room">
+<a name="room65" id="room65" href="#map3">Soft Passage</a>
+</dt>
+<!-- BEGIN exit 3:65 -->
+<dd>Exits: <a href="#room64"><span class="room">Safe Room</span></a>, <a href="#room66"><span class="room">Soft Passage</span></a>.</dd>
+<!-- END exit 3:65 -->
+<!-- END room 3:65 -->
+
+<!-- BEGIN room 3:66 -->
+<dt class="room">
+<a name="room66" id="room66" href="#map3">Soft Passage</a>
+</dt>
+<!-- BEGIN exit 3:66 -->
+<dd>Exits: <a href="#room65"><span class="room">Soft Passage</span></a>, <a href="#room67"><span class="room">Spider Room</span></a>.</dd>
+<!-- END exit 3:66 -->
+<!-- END room 3:66 -->
+
 <!-- BEGIN room 3:37 -->
 <dt class="room">
 <a name="room37" id="room37" href="#map3">Solarium</a>
@@ -478,6 +781,21 @@
 <dd>Exits: <a href="#room36"><span class="room">Music Room</span></a>, <a href="#room38"><span class="room">Snooker room</span></a>, <a href="#room40"><span class="room">Balcony</span></a>.</dd>
 <!-- END exit 3:37 -->
 <!-- END room 3:37 -->
+
+<!-- BEGIN room 3:67 -->
+<dt class="room">
+<a name="room67" id="room67" href="#map3">Spider Room</a>
+</dt>
+<!-- BEGIN exit 3:67 -->
+<dd>Exits: <a href="#room66"><span class="room">Soft Passage</span></a>.</dd>
+<!-- END exit 3:67 -->
+<!-- BEGIN items 3:67 -->
+<dd>Items: <a href="L-adventure-items.html#item16"><span class="item">Gold Ring</span></a>.</dd>
+<!-- END items 3:67 -->
+<!-- BEGIN tasks 3:67 -->
+<dd>Tasks: <a href="L-adventure-tasks.html#task114"><span class="task">SPIDER PUZZLE</span></a>.</dd>
+<!-- END tasks 3:67 -->
+<!-- END room 3:67 -->
 
 <!-- BEGIN room 3:44 -->
 <dt class="room">
@@ -495,9 +813,6 @@
 <!-- BEGIN exit 3:31 -->
 <dd>Exits: <a href="#room30"><span class="room">Pool Room</span></a>, <a href="#room32"><span class="room">Tunnel</span></a>.</dd>
 <!-- END exit 3:31 -->
-<!-- BEGIN tasks 3:31 -->
-<dd>Tasks: <a href="L-adventure-tasks.html#task72"><span class="task">DRINK PINK</span></a>, <a href="L-adventure-tasks.html#task73"><span class="task">DRINK BLUE</span></a>.</dd>
-<!-- END tasks 3:31 -->
 <!-- END room 3:31 -->
 
 <!-- BEGIN room 3:32 -->
@@ -518,127 +833,29 @@
 <!-- END exit 3:33 -->
 <!-- END room 3:33 -->
 
+<!-- BEGIN room 3:48 -->
+<dt class="room">
+<a name="room48" id="room48" href="#map3">Wooden Stairs</a>
+</dt>
+<!-- BEGIN exit 3:48 -->
+<dd>Exits: <a href="#room47"><span class="room">Wooden Stairs</span></a>, <a href="#room49"><span class="room">Circular Room</span></a>.</dd>
+<!-- END exit 3:48 -->
+<!-- BEGIN items 3:48 -->
+<dd>Items: <a href="L-adventure-items.html#item11"><span class="item">Red Hair</span></a>.</dd>
+<!-- END items 3:48 -->
+<!-- END room 3:48 -->
+
+<!-- BEGIN room 3:47 -->
+<dt class="room">
+<a name="room47" id="room47" href="#map3">Wooden Stairs</a>
+</dt>
+<!-- BEGIN exit 3:47 -->
+<dd>Exits: <a href="#room34"><span class="room">Granite Passage</span></a>, <a href="#room48"><span class="room">Wooden Stairs</span></a>.</dd>
+<!-- END exit 3:47 -->
+<!-- END room 3:47 -->
+
 </dl>
 <!-- END map 3 -->
-
-<!-- BEGIN map 4 -->
-<h2><a name="map4" id="map4" href="L-adventure-rooms.html">Map section 4</a></h2>
-<div><object type="image/svg+xml" data="L-adventure-map4.svg">[L-adventure-map4.svg]</object></div>
-<dl>
-<!-- BEGIN room 4:49 -->
-<dt class="room">
-<a name="room49" id="room49" href="#map4">Circular Room</a>
-</dt>
-<!-- BEGIN exit 4:49 -->
-<dd>Exits: <a href="#room48"><span class="room">Wooden Stairs</span></a>, <a href="#room50"><span class="room">Six-sided Room</span></a>.</dd>
-<!-- END exit 4:49 -->
-<!-- END room 4:49 -->
-
-<!-- BEGIN room 4:50 -->
-<dt class="room">
-<a name="room50" id="room50" href="#map4">Six-sided Room</a>
-</dt>
-<!-- BEGIN exit 4:50 -->
-<dd>Exits: <a href="#room49"><span class="room">Circular Room</span></a>.</dd>
-<!-- END exit 4:50 -->
-<!-- BEGIN NOTES 4:50 -->
-<dd>CROWTHER WOODS</dd>
-<!-- END NOTES 4:50 -->
-<!-- END room 4:50 -->
-
-<!-- BEGIN room 4:48 -->
-<dt class="room">
-<a name="room48" id="room48" href="#map4">Wooden Stairs</a>
-</dt>
-<!-- BEGIN exit 4:48 -->
-<dd>Exits: <a href="#room47"><span class="room">Wooden Stairs</span></a>, <a href="#room49"><span class="room">Circular Room</span></a>.</dd>
-<!-- END exit 4:48 -->
-<!-- BEGIN items 4:48 -->
-<dd>Items: <a href="L-adventure-items.html#item10"><span class="item">Red Hair</span></a>.</dd>
-<!-- END items 4:48 -->
-<!-- END room 4:48 -->
-
-<!-- BEGIN room 4:47 -->
-<dt class="room">
-<a name="room47" id="room47" href="#map4">Wooden Stairs</a>
-</dt>
-<!-- BEGIN exit 4:47 -->
-<dd>Exits: <a href="#room34"><span class="room">FLOOR 1:Granite Passage</span></a> (requires <a href="L-adventure-items.html#item3"><span class="item">Rusty Key</span></a>), <a href="#room48"><span class="room">Wooden Stairs</span></a>.</dd>
-<!-- END exit 4:47 -->
-<!-- END room 4:47 -->
-
-</dl>
-<!-- END map 4 -->
-
-<!-- BEGIN map 5 -->
-<h2><a name="map5" id="map5" href="L-adventure-rooms.html">Map section 5</a></h2>
-<div><object type="image/svg+xml" data="L-adventure-map5.svg">[L-adventure-map5.svg]</object></div>
-<dl>
-<!-- BEGIN room 5:52 -->
-<dt class="room">
-<a name="room52" id="room52" href="#map5">Key Room</a>
-</dt>
-<!-- BEGIN exit 5:52 -->
-<dd>Exits: <a href="#room51"><span class="room">Long Passage</span></a>, <a href="#room53"><span class="room">Panelled Room</span></a>.</dd>
-<!-- END exit 5:52 -->
-<!-- BEGIN tasks 5:52 -->
-<dd>Tasks: <a href="L-adventure-tasks.html#task77"><span class="task">KEY PUZZLE</span></a>.</dd>
-<!-- END tasks 5:52 -->
-<!-- END room 5:52 -->
-
-<!-- BEGIN room 5:56 -->
-<dt class="room">
-<a name="room56" id="room56" href="#map5">Lawn</a>
-</dt>
-<!-- BEGIN exit 5:56 -->
-<dd>Exits: <a href="#room55"><span class="room">Walled Garden</span></a>.</dd>
-<!-- END exit 5:56 -->
-<!-- BEGIN items 5:56 -->
-<dd>Items: <a href="L-adventure-items.html#item12"><span class="item">Bath</span></a>.</dd>
-<!-- END items 5:56 -->
-<!-- END room 5:56 -->
-
-<!-- BEGIN room 5:51 -->
-<dt class="room">
-<a name="room51" id="room51" href="#map5">Long Passage</a>
-</dt>
-<!-- BEGIN exit 5:51 -->
-<dd>Exits: <a href="#room14"><span class="room">ENTRANCE:Long Passage</span></a>, <a href="#room52"><span class="room">Key Room</span></a>.</dd>
-<!-- END exit 5:51 -->
-<!-- END room 5:51 -->
-
-<!-- BEGIN room 5:53 -->
-<dt class="room">
-<a name="room53" id="room53" href="#map5">Panelled Room</a>
-</dt>
-<!-- BEGIN exit 5:53 -->
-<dd>Exits: <a href="#room52"><span class="room">Key Room</span></a>, <a href="#room54"><span class="room">Walled Garden</span></a>.</dd>
-<!-- END exit 5:53 -->
-<!-- BEGIN items 5:53 -->
-<dd>Items: <a href="L-adventure-items.html#item11"><span class="item">Octahedron</span></a>.</dd>
-<!-- END items 5:53 -->
-<!-- END room 5:53 -->
-
-<!-- BEGIN room 5:55 -->
-<dt class="room">
-<a name="room55" id="room55" href="#map5">Walled Garden</a>
-</dt>
-<!-- BEGIN exit 5:55 -->
-<dd>Exits: <a href="#room40"><span class="room">FLOOR 1:Balcony</span></a>, <a href="#room54"><span class="room">Walled Garden</span></a>, <a href="#room56"><span class="room">Lawn</span></a>.</dd>
-<!-- END exit 5:55 -->
-<!-- END room 5:55 -->
-
-<!-- BEGIN room 5:54 -->
-<dt class="room">
-<a name="room54" id="room54" href="#map5">Walled Garden</a>
-</dt>
-<!-- BEGIN exit 5:54 -->
-<dd>Exits: <a href="#room53"><span class="room">Panelled Room</span></a>, <a href="#room55"><span class="room">Walled Garden</span></a>.</dd>
-<!-- END exit 5:54 -->
-<!-- END room 5:54 -->
-
-</dl>
-<!-- END map 5 -->
 
 </body>
 </html>
