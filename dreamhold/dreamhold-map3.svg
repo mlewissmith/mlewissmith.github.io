@@ -1,0 +1,158 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Tue Jan  8 16:54:53 2019 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="3.4in" height="4.4in" viewBox="2892 3447 4064 5269">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="5739" y="6365" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2904" y="6365" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="4322" y="7782" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="4322" y="6365" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="4322" y="4948" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="4322" y="3530" width="1133" height="921" rx="0" 
+style="stroke:#aa3333;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#aa3333;
+"/>
+<!-- Line -->
+<polyline points="4960,4381
+4960,4877
+" style="stroke:#aa3333;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;"/>
+<!-- Line -->
+<polyline points="4960,5798
+4960,6295
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4960,7215
+4960,7712
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4393,6755
+4110,6755
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5527,6755
+5811,6755
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="4393,3921
+4110,3921
+" style="stroke:#aa3333;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;"/>
+<!-- Text -->
+<text xml:space="preserve" x="4960" y="4629" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<!-- Text -->
+<text xml:space="preserve" x="4251" y="6755" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<!-- Text -->
+<text xml:space="preserve" x="5669" y="6755" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<!-- Text -->
+<text xml:space="preserve" x="4251" y="3921" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<!-- Line: box -->
+<rect x="2976" y="3460" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5809" y="6295" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ccffcc;
+"/>
+<!-- Line: box -->
+<rect x="2976" y="6295" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ccffcc;
+"/>
+<!-- Line: box -->
+<rect x="4393" y="7712" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ccffcc;
+"/>
+<!-- Line: box -->
+<rect x="4393" y="6295" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ccffcc;
+"/>
+<!-- Line: box -->
+<rect x="4393" y="4877" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ccffcc;
+"/>
+<!-- Line: box -->
+<rect x="4393" y="3460" width="1133" height="920" rx="0" 
+style="stroke:#aa3333;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="3548" y="3965" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Dim Shed</text>
+<!-- Text -->
+<text xml:space="preserve" x="6383" y="6579" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cool Bower</text>
+<!-- Text -->
+<text xml:space="preserve" x="6383" y="6990" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">bush, white berries</text>
+<!-- Text -->
+<text xml:space="preserve" x="3548" y="6579" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Warm Bower</text>
+<!-- Text -->
+<text xml:space="preserve" x="3548" y="6990" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">bush, orange berries</text>
+<!-- Text -->
+<text xml:space="preserve" x="4965" y="7909" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Marble</text>
+<!-- Text -->
+<text xml:space="preserve" x="4965" y="8083" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Balcony</text>
+<!-- Text -->
+<text xml:space="preserve" x="4965" y="8354" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">marble statue, gold</text>
+<!-- Text -->
+<text xml:space="preserve" x="4965" y="8459" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">mask</text>
+<!-- Text -->
+<text xml:space="preserve" x="4965" y="6712" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Mountain</text>
+<!-- Text -->
+<text xml:space="preserve" x="4965" y="6887" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Garden</text>
+<!-- Text -->
+<text xml:space="preserve" x="4965" y="5382" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Mountain Path</text>
+<!-- Text -->
+<text xml:space="preserve" x="4965" y="3965" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Landing (3)</text>
+</g>
+</svg>

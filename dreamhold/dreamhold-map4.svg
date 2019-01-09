@@ -1,0 +1,542 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
+<!-- CreationDate: Tue Jan  8 16:54:53 2019 -->
+<!-- Magnification: 1.050 -->
+<svg xmlns="http://www.w3.org/2000/svg" width="8.1in" height="7.9in" viewBox="1002 1321 9733 9521">
+<g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="8101" y="1404" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="6684" y="2822" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2432" y="9908" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2432" y="8491" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2432" y="7074" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="1015" y="5656" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2432" y="4239" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="3849" y="4239" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="5267" y="4239" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line -->
+<polyline points="5338,4629
+5055,4629
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3921,4629
+3637,4629
+" style="stroke:#aa3333;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;"/>
+<!-- Line -->
+<polyline points="2503,5089
+2220,5586
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="2220,6507
+2441,6894
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 2220 6507 - 2511 7017-->
+<polygon points="2412 6908
+2502 7002
+2467 6876
+2412 6908
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="3637,7003
+3638,7002
+3641,6998
+3648,6992
+3656,6981
+3669,6967
+3686,6949
+3707,6925
+3731,6898
+3759,6867
+3790,6832
+3823,6794
+3859,6754
+3896,6712
+3933,6670
+3970,6628
+4008,6586
+4045,6545
+4080,6504
+4115,6466
+4149,6429
+4180,6392
+4211,6359
+4240,6325
+4268,6293
+4296,6263
+4322,6234
+4347,6205
+4371,6178
+4395,6151
+4418,6124
+4441,6098
+4465,6072
+4488,6047
+4514,6017
+4540,5988
+4566,5959
+4593,5928
+4619,5899
+4646,5868
+4674,5838
+4701,5806
+4729,5776
+4756,5744
+4784,5713
+4812,5681
+4839,5651
+4867,5620
+4893,5590
+4919,5561
+4945,5531
+4971,5503
+4995,5476
+5018,5449
+5040,5424
+5062,5400
+5082,5378
+5102,5356
+5120,5335
+5138,5316
+5153,5297
+5169,5280
+5183,5264
+5338,5089
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3070,7924
+3070,8420
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3070,9341
+3070,9838
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6472,4169
+6755,3672
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7889,2751
+8172,2255
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7889,3212
+7892,3212
+7899,3212
+7910,3211
+7928,3210
+7952,3209
+7983,3207
+8018,3205
+8058,3202
+8101,3198
+8146,3194
+8192,3190
+8236,3185
+8278,3179
+8319,3172
+8356,3166
+8391,3159
+8424,3150
+8453,3142
+8480,3132
+8504,3122
+8527,3110
+8546,3098
+8565,3084
+8582,3068
+8598,3053
+8614,3034
+8628,3013
+8641,2991
+8654,2967
+8665,2942
+8676,2915
+8685,2888
+8693,2858
+8702,2828
+8708,2796
+8714,2765
+8720,2733
+8725,2702
+8728,2670
+8731,2639
+8734,2608
+8735,2579
+8738,2552
+8739,2524
+8739,2499
+8739,2380
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 8739 2499 - 8740 2239-->
+<polygon points="8770 2382
+8740 2256
+8707 2381
+8770 2382
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="7322,2751
+7322,2748
+7322,2741
+7323,2728
+7324,2708
+7325,2681
+7327,2646
+7329,2606
+7332,2561
+7335,2513
+7338,2462
+7342,2412
+7346,2362
+7352,2313
+7357,2268
+7363,2225
+7370,2186
+7377,2150
+7385,2117
+7394,2087
+7403,2059
+7413,2034
+7424,2011
+7436,1991
+7449,1972
+7464,1954
+7482,1935
+7503,1918
+7524,1902
+7548,1887
+7572,1874
+7600,1861
+7627,1849
+7656,1840
+7686,1832
+7716,1823
+7748,1817
+7778,1812
+7808,1806
+7838,1803
+7867,1800
+7895,1798
+7922,1797
+7946,1796
+8046,1795
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 7946 1796 - 8186 1794-->
+<polygon points="8044 1826
+8170 1794
+8043 1763
+8044 1826
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="7322,3672
+7322,3675
+7322,3682
+7321,3696
+7320,3716
+7319,3742
+7318,3777
+7316,3817
+7313,3862
+7310,3910
+7307,3961
+7302,4012
+7298,4061
+7293,4110
+7288,4155
+7281,4198
+7275,4238
+7268,4274
+7259,4307
+7251,4338
+7241,4365
+7232,4390
+7220,4412
+7208,4433
+7195,4452
+7181,4470
+7162,4489
+7142,4507
+7120,4522
+7097,4537
+7071,4551
+7045,4563
+7018,4575
+6988,4584
+6958,4593
+6928,4601
+6897,4607
+6867,4613
+6836,4618
+6806,4621
+6776,4624
+6749,4626
+6723,4627
+6698,4628
+6597,4628
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 6698 4628 - 6456 4629-->
+<polygon points="6598 4597
+6473 4629
+6599 4660
+6598 4597
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="6755,3212
+6752,3212
+6746,3212
+6734,3213
+6717,3214
+6692,3215
+6662,3217
+6626,3219
+6586,3223
+6543,3226
+6498,3230
+6453,3234
+6409,3239
+6367,3246
+6326,3252
+6288,3258
+6254,3266
+6221,3274
+6192,3282
+6164,3292
+6140,3302
+6118,3314
+6098,3327
+6079,3340
+6062,3355
+6047,3372
+6031,3391
+6016,3412
+6004,3434
+5991,3457
+5980,3482
+5969,3508
+5960,3537
+5951,3566
+5943,3596
+5937,3627
+5930,3658
+5925,3691
+5920,3722
+5917,3754
+5913,3784
+5910,3815
+5909,3844
+5907,3872
+5906,3899
+5906,3924
+5905,4043
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Arrowhead on XXXpoint 5906 3924 - 5904 4183-->
+<polygon points="5872 4039
+5904 4166
+5935 4040
+5872 4039
+
+" style="stroke:#000000;stroke-width:8;
+fill:#000000;"/>
+<!-- Line -->
+<polyline points="5905,5089
+5905,5586
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="9307,1795
+9590,1795
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="4062" y="6524" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<!-- Text -->
+<text xml:space="preserve" x="3070" y="8173" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<!-- Text -->
+<text xml:space="preserve" x="3070" y="9590" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<!-- Line: box -->
+<rect x="9590" y="1334" width="1132" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="5586" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="8172" y="1334" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="6754" y="2751" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="2503" y="9838" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="2503" y="8420" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="2503" y="7003" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="1086" y="5586" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="2503" y="4169" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="3920" y="4169" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="4169" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#000000;
+"/>
+<!-- Text -->
+<text xml:space="preserve" x="10162" y="1839" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Cistern, West</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="6004" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Natural</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="6178" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Chamber</text>
+<!-- Text -->
+<text xml:space="preserve" x="8745" y="1618" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Dead End (5)</text>
+<!-- Text -->
+<text xml:space="preserve" x="8745" y="2029" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">iron door</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="3169" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Confusing</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="3343" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Passage</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="10122" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Depths of Pit</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="10533" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">tarnished bracelet</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="8925" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Deep in Pit</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="7508" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Ledge in Pit</text>
+<!-- Text -->
+<text xml:space="preserve" x="1658" y="6091" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">River Crawl</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="4366" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Far Shore of</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="4540" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">River</text>
+<!-- Text -->
+<text xml:space="preserve" x="3076" y="4864" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">green mask</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="4586" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Shore of</text>
+<!-- Text -->
+<text xml:space="preserve" x="4493" y="4761" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">River</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="4586" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Vaulting</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="4761" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cavern (4)</text>
+</g>
+</svg>
