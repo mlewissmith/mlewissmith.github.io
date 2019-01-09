@@ -2,10 +2,16 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
-<!-- CreationDate: Tue Jan  8 16:54:53 2019 -->
+<!-- CreationDate: Wed Jan  9 15:35:53 2019 -->
 <!-- Magnification: 1.050 -->
 <svg xmlns="http://www.w3.org/2000/svg" width="8.1in" height="7.9in" viewBox="1002 1321 9733 9521">
 <g style="stroke-width:.025in; stroke:black; fill:none">
+<!-- Line: box -->
+<rect x="9519" y="4239" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
 <!-- Line: box -->
 <rect x="8101" y="1404" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
@@ -417,6 +423,68 @@ stroke-linejoin:bevel; stroke-linecap:butt;
 " style="stroke:#000000;stroke-width:8;
 fill:#000000;"/>
 <!-- Line -->
+<polyline points="7889,3672
+7891,3674
+7895,3678
+7902,3686
+7912,3696
+7927,3713
+7946,3734
+7970,3759
+7998,3788
+8030,3822
+8065,3859
+8101,3899
+8140,3939
+8180,3981
+8220,4022
+8260,4061
+8299,4101
+8337,4139
+8373,4175
+8408,4208
+8441,4240
+8474,4269
+8504,4297
+8534,4323
+8562,4346
+8590,4368
+8616,4388
+8641,4407
+8666,4425
+8690,4440
+8716,4456
+8740,4470
+8770,4486
+8800,4501
+8830,4515
+8861,4529
+8892,4540
+8923,4552
+8955,4562
+8987,4572
+9019,4581
+9051,4588
+9083,4596
+9114,4602
+9145,4607
+9175,4612
+9205,4616
+9233,4619
+9261,4622
+9287,4624
+9312,4626
+9336,4627
+9358,4628
+9379,4628
+9398,4629
+9416,4629
+9433,4629
+9590,4629
+" style="stroke:#aa3333;stroke-width:16;
+stroke-linejoin:bevel; stroke-linecap:butt;
+stroke-dasharray:10 10;"/>
+<!-- Line -->
 <polyline points="5905,5089
 5905,5586
 " style="stroke:#000000;stroke-width:8;
@@ -428,12 +496,32 @@ stroke-linejoin:miter; stroke-linecap:butt;
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
+<!-- Line -->
+<polyline points="10157,5586
+10157,5214
+" style="stroke:#aa3333;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;"/>
+<!-- Arrowhead on XXXpoint 10157 5586 - 10157 5058-->
+<polygon points="10188 5201
+10157 5075
+10125 5201
+10188 5201
+
+" style="stroke:#aa3333;stroke-width:8;
+fill:#aa3333;"/>
 <!-- Text -->
 <text xml:space="preserve" x="4062" y="6524" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
 <!-- Text -->
 <text xml:space="preserve" x="3070" y="8173" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
 <!-- Text -->
 <text xml:space="preserve" x="3070" y="9590" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<!-- Line: box -->
+<rect x="9590" y="5586" width="1132" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;fill:#ffffff;
+"/>
 <!-- Line: box -->
 <rect x="9590" y="1334" width="1132" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
@@ -445,6 +533,12 @@ stroke-dasharray:10 10;fill:#ffffff;
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 stroke-dasharray:10 10;fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="9590" y="4169" width="1132" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
 "/>
 <!-- Line: box -->
 <rect x="8172" y="1334" width="1133" height="920" rx="0" 
@@ -501,11 +595,19 @@ stroke-linejoin:miter; stroke-linecap:butt;
 fill:#000000;
 "/>
 <!-- Text -->
+<text xml:space="preserve" x="10162" y="6004" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Cistern,</text>
+<!-- Text -->
+<text xml:space="preserve" x="10162" y="6178" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Rising</text>
+<!-- Text -->
 <text xml:space="preserve" x="10162" y="1839" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Cistern, West</text>
 <!-- Text -->
 <text xml:space="preserve" x="5910" y="6004" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Natural</text>
 <!-- Text -->
 <text xml:space="preserve" x="5910" y="6178" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Chamber</text>
+<!-- Text -->
+<text xml:space="preserve" x="10162" y="4453" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Grey Chamber</text>
+<!-- Text -->
+<text xml:space="preserve" x="10162" y="4864" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">shield</text>
 <!-- Text -->
 <text xml:space="preserve" x="8745" y="1618" stroke="#ffff00" fill="#ffff00" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Dead End (5)</text>
 <!-- Text -->

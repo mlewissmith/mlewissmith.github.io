@@ -2,889 +2,1225 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
 "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: fig2dev Version 3.2 Patchlevel 5 -->
-<!-- CreationDate: Tue Jan  8 16:54:53 2019 -->
+<!-- CreationDate: Wed Jan  9 15:35:53 2019 -->
 <!-- Magnification: 1.050 -->
-<svg xmlns="http://www.w3.org/2000/svg" width="5.7in" height="6.8in" viewBox="1475 2030 6898 8103">
+<svg xmlns="http://www.w3.org/2000/svg" width="8.1in" height="7.9in" viewBox="1002 1321 9733 9521">
 <g style="stroke-width:.025in; stroke:black; fill:none">
 <!-- Line: box -->
-<rect x="2904" y="6365" width="1133" height="921" rx="0" 
-style="stroke:#7e7e7e;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#7e7e7e;
-"/>
-<!-- Line: box -->
-<rect x="1487" y="4948" width="1133" height="921" rx="0" 
-style="stroke:#7e7e7e;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#7e7e7e;
-"/>
-<!-- Line: box -->
-<rect x="2904" y="3530" width="1133" height="921" rx="0" 
-style="stroke:#7e7e7e;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#7e7e7e;
-"/>
-<!-- Line: box -->
-<rect x="4322" y="2113" width="1133" height="921" rx="0" 
-style="stroke:#7e7e7e;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#7e7e7e;
-"/>
-<!-- Line: box -->
-<rect x="5739" y="3530" width="1133" height="921" rx="0" 
-style="stroke:#7e7e7e;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#7e7e7e;
-"/>
-<!-- Line: box -->
-<rect x="7156" y="4948" width="1133" height="921" rx="0" 
-style="stroke:#7e7e7e;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#7e7e7e;
-"/>
-<!-- Line: box -->
-<rect x="5739" y="9200" width="1133" height="921" rx="0" 
+<rect x="6684" y="4239" width="1133" height="921" rx="0" 
 style="stroke:#aa3333;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#aa3333;
 "/>
 <!-- Line: box -->
-<rect x="5739" y="7782" width="1133" height="921" rx="0" 
+<rect x="8101" y="8491" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
 "/>
 <!-- Line: box -->
-<rect x="2904" y="7782" width="1133" height="921" rx="0" 
+<rect x="5267" y="9908" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2432" y="8491" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="1015" y="5656" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="2432" y="2822" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="5267" y="1404" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="8101" y="2822" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="9519" y="5656" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="6684" y="7074" width="1133" height="921" rx="0" 
+style="stroke:#aa3333;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#aa3333;
+"/>
+<!-- Line: box -->
+<rect x="6684" y="5656" width="1133" height="921" rx="0" 
+style="stroke:#7e7e7e;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#7e7e7e;
+"/>
+<!-- Line: box -->
+<rect x="5267" y="5656" width="1133" height="921" rx="0" 
 style="stroke:#7e7e7e;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#7e7e7e;
 "/>
 <!-- Line -->
-<polyline points="4110,6755
-4208,6755
+<polyline points="6472,6047
+6755,6047
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="4110,7215
-4208,7390
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="3543,4381
-3543,4555
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="4110,3921
-4208,3921
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="4110,8173
-4112,8173
-4117,8173
-4128,8173
-4142,8173
-4163,8173
-4191,8173
-4223,8173
-4260,8173
-4301,8173
-4344,8173
-4389,8173
-4435,8173
-4480,8173
-4524,8173
-4567,8173
-4608,8173
-4648,8173
-4685,8173
-4721,8173
-4754,8173
-4787,8173
-4817,8173
-4847,8173
-4876,8173
-4904,8173
-4932,8173
-4960,8173
-4993,8173
-5025,8173
-5059,8173
-5091,8173
-5126,8173
-5160,8173
-5194,8173
-5229,8173
-5264,8173
-5298,8173
-5332,8173
-5365,8173
-5399,8173
-5430,8173
-5461,8173
-5490,8173
-5519,8173
-5545,8173
-5569,8173
-5592,8173
-5614,8173
-5633,8173
-5652,8173
-5811,8173
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:bevel; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="6377,8633
-6377,9129
+<polyline points="7322,6507
+7322,7003
 " style="stroke:#aa3333;stroke-width:16;
 stroke-linejoin:miter; stroke-linecap:butt;
 stroke-dasharray:10 10;"/>
 <!-- Line -->
-<polyline points="5811,9590
-5808,9590
-5803,9590
-5793,9589
-5778,9589
-5757,9588
-5730,9586
-5697,9584
-5660,9582
-5619,9579
-5576,9575
-5531,9572
-5485,9567
-5440,9563
-5396,9558
-5353,9551
-5312,9545
-5272,9539
-5235,9531
-5200,9523
-5166,9514
-5133,9505
-5103,9496
-5074,9484
-5044,9472
-5016,9460
-4988,9445
-4960,9430
-4934,9416
-4908,9399
-4881,9382
-4855,9364
-4829,9345
-4802,9325
-4774,9304
-4747,9282
-4719,9259
-4691,9236
-4664,9212
-4636,9187
-4608,9162
-4581,9137
-4555,9111
-4529,9086
-4502,9061
-4477,9036
-4453,9011
-4430,8986
-4408,8963
-4386,8940
-4366,8918
-4346,8897
-4328,8877
-4310,8858
-4295,8840
-4279,8824
-4265,8807
-4110,8633
+<polyline points="6755,7003
+6472,6507
+" style="stroke:#aa3333;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;"/>
+<!-- Line -->
+<polyline points="7889,6047
+7891,6047
+7897,6047
+7907,6047
+7922,6047
+7943,6047
+7970,6047
+8003,6047
+8039,6047
+8080,6047
+8123,6047
+8169,6047
+8215,6047
+8260,6047
+8304,6047
+8347,6047
+8388,6047
+8428,6047
+8465,6047
+8500,6047
+8534,6047
+8566,6047
+8597,6047
+8626,6047
+8656,6047
+8684,6047
+8711,6047
+8740,6047
+8772,6047
+8805,6047
+8838,6047
+8871,6047
+8906,6047
+8939,6047
+8974,6047
+9008,6047
+9043,6047
+9078,6047
+9111,6047
+9145,6047
+9179,6047
+9210,6047
+9240,6047
+9270,6047
+9298,6047
+9324,6047
+9349,6047
+9372,6047
+9394,6047
+9413,6047
+9432,6047
+9590,6047
 " style="stroke:#aa3333;stroke-width:16;
 stroke-linejoin:bevel; stroke-linecap:butt;
 stroke-dasharray:10 10;"/>
 <!-- Line -->
-<polyline points="6944,7712
-6946,7710
-6950,7706
-6956,7698
-6966,7687
-6980,7670
-6999,7648
-7022,7620
-7048,7589
-7078,7553
-7111,7514
-7146,7472
-7182,7429
-7218,7384
-7255,7339
-7291,7295
-7325,7251
-7359,7209
-7391,7168
-7421,7128
-7448,7090
-7475,7055
-7500,7020
-7522,6986
-7543,6955
-7563,6924
-7581,6895
-7597,6866
-7613,6838
-7627,6810
-7640,6783
-7653,6755
-7668,6722
-7681,6687
-7693,6654
-7706,6619
-7716,6583
-7725,6549
-7735,6513
-7743,6477
-7752,6440
-7758,6405
-7764,6369
-7771,6333
-7775,6299
-7779,6265
-7783,6232
-7786,6199
-7788,6169
-7791,6139
-7792,6111
-7793,6085
-7794,6059
-7794,6036
-7795,6014
-7795,5994
-7795,5975
-7795,5798
+<polyline points="10157,5586
+10157,5584
+10157,5579
+10156,5569
+10156,5555
+10155,5535
+10154,5510
+10153,5479
+10151,5442
+10149,5402
+10146,5358
+10143,5312
+10140,5265
+10137,5216
+10133,5169
+10129,5123
+10123,5077
+10118,5034
+10113,4992
+10107,4952
+10100,4914
+10094,4878
+10087,4844
+10078,4811
+10070,4779
+10060,4748
+10050,4718
+10039,4688
+10028,4659
+10015,4629
+10002,4600
+9988,4571
+9972,4541
+9956,4511
+9940,4481
+9922,4451
+9903,4420
+9883,4389
+9863,4359
+9842,4327
+9821,4296
+9799,4264
+9777,4234
+9755,4203
+9732,4173
+9709,4143
+9687,4114
+9665,4086
+9643,4058
+9622,4032
+9601,4007
+9581,3983
+9561,3961
+9542,3939
+9524,3918
+9507,3899
+9491,3880
+9476,3863
+9462,3846
+9307,3672
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8740,3672
+8740,3674
+8740,3679
+8741,3689
+8741,3702
+8742,3722
+8743,3748
+8744,3779
+8746,3816
+8748,3856
+8750,3900
+8753,3946
+8756,3993
+8760,4041
+8764,4089
+8768,4136
+8773,4181
+8779,4225
+8784,4266
+8790,4306
+8796,4344
+8803,4381
+8810,4415
+8818,4448
+8827,4479
+8836,4511
+8847,4541
+8857,4571
+8869,4600
+8881,4629
+8895,4659
+8909,4688
+8924,4718
+8940,4747
+8957,4777
+8975,4808
+8994,4838
+9014,4869
+9034,4900
+9055,4932
+9076,4962
+9098,4994
+9120,5025
+9142,5056
+9165,5085
+9188,5116
+9210,5144
+9232,5172
+9254,5200
+9275,5226
+9296,5251
+9316,5275
+9336,5298
+9355,5320
+9373,5340
+9390,5360
+9405,5378
+9421,5395
+9435,5412
+9590,5586
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8172,3212
+8170,3212
+8164,3212
+8154,3211
+8139,3211
+8118,3210
+8091,3208
+8058,3206
+8022,3204
+7981,3201
+7938,3197
+7892,3194
+7847,3189
+7801,3185
+7757,3180
+7714,3173
+7673,3167
+7634,3161
+7596,3153
+7562,3145
+7528,3137
+7496,3127
+7465,3118
+7435,3106
+7406,3095
+7378,3082
+7350,3067
+7322,3053
+7296,3038
+7270,3021
+7244,3004
+7217,2986
+7191,2967
+7164,2948
+7137,2927
+7109,2904
+7081,2881
+7054,2858
+7026,2834
+6998,2809
+6971,2784
+6943,2759
+6917,2733
+6891,2708
+6865,2683
+6839,2658
+6815,2633
+6792,2608
+6770,2585
+6748,2562
+6728,2540
+6708,2519
+6690,2499
+6672,2480
+6657,2462
+6641,2446
+6627,2429
+6472,2255
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="6472,1795
+6474,1795
+6479,1795
+6490,1796
+6504,1796
+6525,1797
+6553,1799
+6585,1801
+6622,1803
+6663,1806
+6706,1809
+6751,1813
+6797,1818
+6843,1822
+6887,1827
+6930,1834
+6971,1840
+7011,1846
+7047,1854
+7083,1861
+7117,1870
+7149,1879
+7180,1889
+7209,1900
+7238,1912
+7267,1925
+7294,1939
+7322,1954
+7349,1969
+7374,1986
+7400,2003
+7427,2020
+7454,2039
+7481,2059
+7508,2080
+7535,2102
+7563,2125
+7591,2149
+7618,2173
+7646,2197
+7673,2222
+7700,2247
+7728,2274
+7754,2299
+7779,2324
+7804,2349
+7828,2373
+7851,2397
+7875,2420
+7896,2444
+7916,2466
+7935,2487
+7953,2507
+7971,2525
+7987,2543
+8003,2560
+8016,2577
+8172,2751
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="5338,1795
+5336,1795
+5331,1795
+5320,1796
+5306,1796
+5285,1797
+5257,1799
+5225,1801
+5188,1803
+5147,1806
+5104,1809
+5059,1813
+5013,1818
+4967,1822
+4923,1827
+4880,1834
+4839,1840
+4800,1846
+4763,1854
+4727,1861
+4693,1870
+4661,1879
+4630,1889
+4601,1900
+4572,1912
+4543,1925
+4516,1939
+4488,1954
+4461,1969
+4435,1986
+4409,2003
+4383,2020
+4356,2039
+4329,2059
+4302,2080
+4275,2102
+4246,2125
+4219,2149
+4192,2173
+4163,2197
+4136,2222
+4109,2247
+4082,2274
+4056,2299
+4030,2324
+4005,2349
+3981,2373
+3958,2397
+3935,2420
+3913,2444
+3893,2466
+3874,2487
+3856,2507
+3838,2525
+3822,2543
+3806,2560
+3793,2577
+3637,2751
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3637,3212
+3639,3212
+3645,3212
+3655,3211
+3670,3211
+3691,3210
+3718,3208
+3751,3206
+3787,3204
+3828,3201
+3871,3197
+3917,3194
+3963,3189
+4008,3185
+4052,3180
+4095,3173
+4136,3167
+4176,3161
+4213,3153
+4248,3145
+4282,3137
+4314,3127
+4345,3118
+4374,3106
+4404,3095
+4432,3082
+4459,3067
+4488,3053
+4514,3038
+4540,3021
+4566,3004
+4593,2986
+4619,2967
+4646,2948
+4674,2927
+4701,2904
+4729,2881
+4756,2858
+4784,2834
+4812,2809
+4839,2784
+4867,2759
+4893,2733
+4919,2708
+4945,2683
+4971,2658
+4995,2633
+5018,2608
+5040,2585
+5062,2562
+5082,2540
+5102,2519
+5120,2499
+5138,2480
+5153,2462
+5169,2446
+5183,2429
+5338,2255
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3070,3672
+3070,3674
+3070,3679
+3069,3689
+3069,3702
+3068,3722
+3067,3748
+3066,3779
+3064,3816
+3062,3856
+3060,3900
+3057,3946
+3054,3993
+3050,4041
+3046,4089
+3042,4136
+3037,4181
+3032,4225
+3026,4266
+3020,4306
+3014,4344
+3007,4381
+3000,4415
+2992,4448
+2983,4479
+2974,4511
+2963,4541
+2953,4571
+2941,4600
+2929,4629
+2915,4659
+2901,4688
+2886,4718
+2870,4747
+2853,4777
+2835,4808
+2816,4838
+2796,4869
+2776,4900
+2755,4932
+2734,4962
+2712,4994
+2690,5025
+2668,5056
+2645,5085
+2622,5116
+2600,5144
+2578,5172
+2556,5200
+2535,5226
+2514,5251
+2494,5275
+2474,5298
+2455,5320
+2437,5340
+2420,5360
+2405,5378
+2389,5395
+2375,5412
+2220,5586
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1653,5586
+1653,5584
+1653,5579
+1654,5569
+1654,5555
+1655,5535
+1656,5510
+1657,5479
+1659,5442
+1661,5402
+1664,5358
+1667,5312
+1670,5265
+1673,5216
+1677,5169
+1681,5123
+1687,5077
+1692,5034
+1697,4992
+1703,4952
+1710,4914
+1716,4878
+1723,4844
+1732,4811
+1740,4779
+1750,4748
+1760,4718
+1771,4688
+1782,4659
+1795,4629
+1808,4600
+1822,4571
+1838,4541
+1854,4511
+1870,4481
+1888,4451
+1907,4420
+1927,4389
+1947,4359
+1968,4327
+1989,4296
+2011,4264
+2033,4234
+2055,4203
+2078,4173
+2101,4143
+2123,4114
+2145,4086
+2167,4058
+2188,4032
+2209,4007
+2229,3983
+2249,3961
+2268,3939
+2286,3918
+2303,3899
+2319,3880
+2334,3863
+2348,3846
+2503,3672
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="1653,6507
+1653,6509
+1653,6514
+1654,6523
+1654,6537
+1655,6557
+1656,6582
+1657,6614
+1659,6650
+1661,6690
+1664,6734
+1667,6781
+1670,6828
+1673,6876
+1677,6923
+1681,6971
+1687,7016
+1692,7060
+1697,7101
+1703,7141
+1710,7179
+1716,7215
+1723,7250
+1732,7282
+1740,7314
+1750,7345
+1760,7376
+1771,7405
+1782,7435
+1795,7464
+1808,7493
+1822,7523
+1838,7552
+1854,7582
+1870,7612
+1888,7643
+1907,7673
+1927,7703
+1947,7735
+1968,7766
+1989,7797
+2011,7828
+2033,7860
+2055,7890
+2078,7920
+2101,7950
+2123,7979
+2145,8007
+2167,8034
+2188,8060
+2209,8086
+2229,8110
+2249,8133
+2268,8155
+2286,8175
+2303,8195
+2319,8213
+2334,8229
+2348,8246
+2503,8420
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3070,8420
+3070,8418
+3070,8413
+3069,8404
+3069,8390
+3068,8370
+3067,8345
+3066,8313
+3064,8277
+3062,8237
+3060,8193
+3057,8146
+3054,8099
+3050,8051
+3046,8004
+3042,7958
+3037,7911
+3032,7868
+3026,7826
+3020,7786
+3014,7749
+3007,7713
+3000,7678
+2992,7646
+2983,7613
+2974,7583
+2963,7552
+2953,7523
+2941,7493
+2929,7464
+2915,7435
+2901,7405
+2886,7376
+2870,7345
+2853,7316
+2835,7286
+2816,7255
+2796,7224
+2776,7193
+2755,7162
+2734,7130
+2712,7099
+2690,7068
+2668,7038
+2645,7007
+2622,6978
+2600,6949
+2578,6920
+2556,6893
+2535,6867
+2514,6841
+2494,6817
+2474,6795
+2455,6773
+2437,6752
+2420,6733
+2405,6714
+2389,6698
+2375,6681
+2220,6507
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="3637,8881
+3639,8881
+3645,8881
+3655,8882
+3670,8882
+3691,8883
+3718,8886
+3751,8888
+3787,8890
+3828,8893
+3871,8896
+3917,8899
+3963,8904
+4008,8909
+4052,8914
+4095,8920
+4136,8927
+4176,8933
+4213,8940
+4248,8948
+4282,8957
+4314,8965
+4345,8976
+4374,8986
+4404,8999
+4432,9012
+4459,9025
+4488,9041
+4514,9056
+4540,9072
+4566,9089
+4593,9107
+4619,9126
+4646,9146
+4674,9167
+4701,9189
+4729,9212
+4756,9235
+4784,9259
+4812,9283
+4839,9309
+4867,9334
+4893,9360
+4919,9385
+4945,9411
+4971,9436
+4995,9460
+5018,9484
+5040,9507
+5062,9530
+5082,9552
+5102,9573
+5120,9593
+5138,9612
+5153,9630
+5169,9647
+5183,9664
+5338,9838
 " style="stroke:#aa3333;stroke-width:16;
 stroke-linejoin:bevel; stroke-linecap:butt;
 stroke-dasharray:10 10;"/>
 <!-- Line -->
-<polyline points="7228,4877
-6944,4381
+<polyline points="5338,10299
+5336,10299
+5331,10299
+5320,10298
+5306,10298
+5285,10297
+5257,10295
+5225,10292
+5188,10290
+5147,10287
+5104,10284
+5059,10281
+5013,10276
+4967,10271
+4923,10266
+4880,10260
+4839,10254
+4800,10247
+4763,10240
+4727,10232
+4693,10223
+4661,10214
+4630,10204
+4601,10193
+4572,10181
+4543,10169
+4516,10154
+4488,10139
+4461,10124
+4435,10108
+4409,10091
+4383,10073
+4356,10054
+4329,10034
+4302,10013
+4275,9991
+4246,9968
+4219,9945
+4192,9921
+4163,9896
+4136,9870
+4109,9845
+4082,9820
+4056,9795
+4030,9770
+4005,9744
+3981,9719
+3958,9695
+3935,9672
+3913,9649
+3893,9627
+3874,9606
+3856,9586
+3838,9567
+3822,9549
+3806,9532
+3793,9516
+3637,9341
+" style="stroke:#aa3333;stroke-width:16;
+stroke-linejoin:bevel; stroke-linecap:butt;
+stroke-dasharray:10 10;"/>
+<!-- Line -->
+<polyline points="6472,10299
+6474,10299
+6479,10299
+6490,10298
+6504,10298
+6525,10297
+6553,10295
+6585,10292
+6622,10290
+6663,10287
+6706,10284
+6751,10281
+6797,10276
+6843,10271
+6887,10266
+6930,10260
+6971,10254
+7011,10247
+7047,10240
+7083,10232
+7117,10223
+7149,10214
+7180,10204
+7209,10193
+7238,10181
+7267,10169
+7294,10154
+7322,10139
+7349,10124
+7374,10108
+7400,10091
+7427,10073
+7454,10054
+7481,10034
+7508,10013
+7535,9991
+7563,9968
+7591,9945
+7618,9921
+7646,9896
+7673,9870
+7700,9845
+7728,9820
+7754,9795
+7779,9770
+7804,9744
+7828,9719
+7851,9695
+7875,9672
+7896,9649
+7916,9627
+7935,9606
+7953,9586
+7971,9567
+7987,9549
+8003,9532
+8016,9516
+8172,9341
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="8172,8881
+8170,8881
+8164,8881
+8154,8882
+8139,8882
+8118,8883
+8091,8886
+8058,8888
+8022,8890
+7981,8893
+7938,8896
+7892,8899
+7847,8904
+7801,8909
+7757,8914
+7714,8920
+7673,8927
+7634,8933
+7596,8940
+7562,8948
+7528,8957
+7496,8965
+7465,8976
+7435,8986
+7406,8999
+7378,9012
+7350,9025
+7322,9041
+7296,9056
+7270,9072
+7244,9089
+7217,9107
+7191,9126
+7164,9146
+7137,9167
+7109,9189
+7081,9212
+7054,9235
+7026,9259
+6998,9283
+6971,9309
+6943,9334
+6917,9360
+6891,9385
+6865,9411
+6839,9436
+6815,9460
+6792,9484
+6770,9507
+6748,9530
+6728,9552
+6708,9573
+6690,9593
+6672,9612
+6657,9630
+6641,9647
+6627,9664
+6472,9838
+" style="stroke:#000000;stroke-width:8;
+stroke-linejoin:bevel; stroke-linecap:butt;
+"/>
+<!-- Line -->
+<polyline points="7322,5586
+7322,5089
+" style="stroke:#aa3333;stroke-width:16;
+stroke-linejoin:miter; stroke-linecap:butt;
+stroke-dasharray:10 10;"/>
+<!-- Line -->
+<polyline points="5338,6047
+5055,6047
 " style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 "/>
 <!-- Line -->
-<polyline points="7795,4877
-7795,4874
-7795,4867
-7794,4854
-7793,4834
-7792,4807
-7791,4772
-7788,4732
-7785,4687
-7782,4639
-7779,4588
-7775,4538
-7771,4488
-7765,4439
-7760,4394
-7754,4351
-7748,4312
-7740,4276
-7732,4243
-7723,4213
-7714,4185
-7704,4160
-7693,4137
-7680,4117
-7668,4098
-7653,4080
-7634,4061
-7614,4044
-7592,4028
-7569,4013
-7544,4000
-7518,3987
-7490,3975
-7461,3966
-7430,3958
-7400,3949
-7370,3943
-7339,3938
-7309,3932
-7278,3929
-7249,3926
-7222,3924
-7195,3923
-7170,3922
-7069,3921
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:bevel; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 7170 3922 - 6929 3920-->
-<polygon points="7071 3889
-6945 3920
-7070 3952
-7071 3889
-
-" style="stroke:#000000;stroke-width:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="6377,4381
-6377,4384
-6377,4391
-6379,4405
-6380,4425
-6381,4451
-6382,4486
-6384,4525
-6387,4571
-6390,4619
-6393,4669
-6397,4721
-6402,4770
-6407,4818
-6412,4864
-6418,4907
-6425,4946
-6432,4982
-6440,5016
-6449,5046
-6458,5074
-6468,5099
-6479,5121
-6492,5142
-6504,5161
-6519,5179
-6538,5197
-6558,5215
-6580,5231
-6603,5246
-6628,5259
-6655,5272
-6682,5283
-6711,5293
-6742,5301
-6772,5310
-6803,5316
-6833,5321
-6864,5327
-6894,5330
-6923,5333
-6951,5335
-6977,5336
-7002,5337
-7102,5337
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:bevel; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 7002 5337 - 7243 5338-->
-<polygon points="7099 5369
-7226 5338
-7100 5306
-7099 5369
-
-" style="stroke:#000000;stroke-width:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="5811,3460
-5527,2963
-" style="stroke:#000000;stroke-width:8;
+<polyline points="6755,4169
+6533,3780
+" style="stroke:#aa3333;stroke-width:16;
 stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="5527,2503
-5530,2503
-5537,2503
-5548,2504
-5566,2506
-5590,2507
-5620,2509
-5656,2511
-5696,2514
-5739,2517
-5784,2521
-5829,2525
-5874,2531
-5916,2537
-5956,2543
-5994,2550
-6029,2557
-6061,2565
-6091,2574
-6118,2583
-6142,2594
-6164,2605
-6184,2618
-6203,2632
-6220,2646
-6236,2663
-6251,2682
-6266,2703
-6279,2725
-6291,2748
-6303,2773
-6313,2800
-6323,2828
-6331,2857
-6340,2888
-6346,2918
-6352,2950
-6358,2982
-6363,3014
-6366,3045
-6369,3076
-6372,3106
-6373,3135
-6375,3164
-6376,3190
-6376,3215
-6376,3334
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:bevel; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 6376 3215 - 6377 3475-->
-<polygon points="6345 3332
-6377 3458
-6408 3331
-6345 3332
+stroke-dasharray:10 10;"/>
+<!-- Arrowhead on XXXpoint 6755 4169 - 6456 3644-->
+<polygon points="6554 3752
+6465 3658
+6499 3783
+6554 3752
 
-" style="stroke:#000000;stroke-width:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="5811,3921
-5807,3921
-5801,3921
-5790,3920
-5772,3919
-5748,3918
-5717,3916
-5681,3913
-5641,3910
-5598,3907
-5553,3903
-5508,3899
-5464,3893
-5422,3887
-5381,3881
-5343,3875
-5309,3867
-5276,3859
-5247,3850
-5219,3841
-5195,3830
-5173,3819
-5153,3806
-5134,3793
-5118,3777
-5102,3761
-5086,3742
-5071,3721
-5059,3699
-5046,3676
-5035,3651
-5024,3624
-5015,3596
-5006,3567
-4998,3537
-4992,3505
-4985,3474
-4980,3442
-4975,3411
-4972,3379
-4969,3348
-4965,3317
-4964,3288
-4962,3260
-4961,3233
-4961,3208
-4960,3088
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:bevel; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 4961 3208 - 4959 2948-->
-<polygon points="4991 3089
-4959 2964
-4928 3090
-4991 3089
-
-" style="stroke:#000000;stroke-width:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="4393,2963
-4110,3460
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="4393,2503
-4390,2503
-4384,2503
-4372,2504
-4354,2506
-4330,2507
-4300,2509
-4264,2511
-4224,2514
-4181,2517
-4136,2521
-4091,2525
-4047,2531
-4005,2537
-3964,2543
-3926,2550
-3891,2557
-3859,2565
-3829,2574
-3802,2583
-3778,2594
-3756,2605
-3736,2618
-3717,2632
-3700,2646
-3685,2663
-3669,2682
-3654,2703
-3641,2725
-3629,2748
-3617,2773
-3607,2800
-3597,2828
-3589,2857
-3581,2888
-3574,2918
-3568,2950
-3563,2982
-3558,3014
-3554,3045
-3551,3076
-3548,3106
-3547,3135
-3545,3164
-3544,3190
-3544,3215
-3543,3334
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:bevel; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 3544 3215 - 3542 3475-->
-<polygon points="3510 3331
-3542 3458
-3573 3332
-3510 3331
-
-" style="stroke:#000000;stroke-width:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="2976,4381
-2692,4877
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="2125,4877
-2125,4874
-2125,4867
-2127,4854
-2128,4834
-2129,4807
-2130,4772
-2132,4732
-2135,4687
-2138,4639
-2141,4588
-2145,4538
-2150,4488
-2155,4439
-2160,4394
-2166,4351
-2173,4312
-2180,4276
-2188,4243
-2197,4213
-2206,4185
-2216,4160
-2227,4137
-2240,4117
-2253,4098
-2267,4080
-2286,4061
-2306,4044
-2328,4028
-2351,4013
-2376,4000
-2403,3987
-2430,3975
-2459,3966
-2490,3958
-2520,3949
-2551,3943
-2581,3938
-2612,3932
-2642,3929
-2671,3926
-2699,3924
-2725,3923
-2750,3922
-2850,3921
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:bevel; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 2750 3922 - 2991 3920-->
-<polygon points="2848 3952
-2974 3920
-2847 3889
-2848 3952
-
-" style="stroke:#000000;stroke-width:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="2692,5798
-2976,6295
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
-<!-- Line -->
-<polyline points="2125,5798
-2125,5801
-2125,5808
-2127,5822
-2128,5842
-2129,5868
-2130,5903
-2132,5943
-2135,5988
-2138,6036
-2141,6087
-2145,6138
-2150,6187
-2155,6236
-2160,6281
-2166,6324
-2173,6364
-2180,6400
-2188,6433
-2197,6464
-2206,6491
-2216,6516
-2227,6538
-2240,6559
-2253,6578
-2267,6596
-2286,6615
-2306,6633
-2328,6648
-2351,6663
-2376,6677
-2403,6689
-2430,6701
-2459,6710
-2490,6719
-2520,6727
-2551,6733
-2581,6739
-2612,6744
-2642,6747
-2671,6750
-2699,6752
-2725,6753
-2750,6754
-2850,6754
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:bevel; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 2750 6754 - 2991 6755-->
-<polygon points="2847 6786
-2974 6755
-2848 6723
-2847 6786
-
-" style="stroke:#000000;stroke-width:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="3543,6295
-3543,6291
-3543,6284
-3542,6271
-3541,6251
-3540,6224
-3539,6190
-3537,6150
-3533,6104
-3530,6056
-3527,6006
-3523,5955
-3519,5905
-3513,5857
-3508,5812
-3502,5769
-3496,5730
-3488,5693
-3480,5660
-3471,5630
-3462,5603
-3453,5577
-3441,5554
-3428,5534
-3416,5516
-3401,5498
-3382,5479
-3362,5461
-3340,5445
-3317,5430
-3292,5417
-3266,5404
-3238,5393
-3209,5383
-3179,5375
-3148,5366
-3118,5360
-3087,5355
-3057,5350
-3026,5346
-2997,5343
-2970,5341
-2943,5340
-2918,5339
-2817,5338
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:bevel; stroke-linecap:butt;
-"/>
-<!-- Arrowhead on XXXpoint 2918 5339 - 2677 5337-->
-<polygon points="2819 5307
-2693 5337
-2818 5370
-2819 5307
-
-" style="stroke:#000000;stroke-width:8;
-fill:#000000;"/>
-<!-- Line -->
-<polyline points="2976,8173
-2692,8173
-" style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-"/>
+" style="stroke:#aa3333;stroke-width:8;
+fill:#aa3333;"/>
 <!-- Text -->
-<text xml:space="preserve" x="6377" y="8881" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<text xml:space="preserve" x="7322" y="6755" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
 <!-- Text -->
-<text xml:space="preserve" x="7370" y="7233" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
+<text xml:space="preserve" x="8314" y="6047" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="normal" font-size="101" text-anchor="middle">U/D</text>
 <!-- Line: box -->
-<rect x="1559" y="7712" width="1133" height="920" rx="0" 
+<rect x="5337" y="2751" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 stroke-dasharray:10 10;fill:#ffffff;
 "/>
 <!-- Line: box -->
-<rect x="2976" y="6295" width="1133" height="920" rx="0" 
+<rect x="3920" y="5586" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
-fill:#ffffcc;
+stroke-dasharray:10 10;fill:#ffffff;
 "/>
 <!-- Line: box -->
-<rect x="1559" y="4877" width="1133" height="920" rx="0" 
-style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#ffffcc;
-"/>
-<!-- Line: box -->
-<rect x="2976" y="3460" width="1133" height="920" rx="0" 
-style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#ffffcc;
-"/>
-<!-- Line: box -->
-<rect x="4392" y="2043" width="1133" height="920" rx="0" 
-style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#ffffcc;
-"/>
-<!-- Line: box -->
-<rect x="5809" y="3460" width="1133" height="920" rx="0" 
-style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#ffffcc;
-"/>
-<!-- Line: box -->
-<rect x="7227" y="4877" width="1133" height="920" rx="0" 
-style="stroke:#000000;stroke-width:8;
-stroke-linejoin:miter; stroke-linecap:butt;
-fill:#ffffcc;
-"/>
-<!-- Line: box -->
-<rect x="5809" y="9129" width="1133" height="920" rx="0" 
+<rect x="6754" y="4169" width="1133" height="920" rx="0" 
 style="stroke:#aa3333;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
 fill:#ffffff;
 "/>
 <!-- Line: box -->
-<rect x="5809" y="7712" width="1133" height="920" rx="0" 
+<rect x="8172" y="8420" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
-fill:#cccccc;
+fill:#ffffcc;
 "/>
 <!-- Line: box -->
-<rect x="2976" y="7712" width="1133" height="920" rx="0" 
+<rect x="5337" y="9838" width="1133" height="920" rx="0" 
 style="stroke:#000000;stroke-width:8;
 stroke-linejoin:miter; stroke-linecap:butt;
-fill:#cccccc;
+fill:#ffffcc;
+"/>
+<!-- Line: box -->
+<rect x="2503" y="8420" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffcc;
+"/>
+<!-- Line: box -->
+<rect x="1086" y="5586" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffcc;
+"/>
+<!-- Line: box -->
+<rect x="2503" y="2751" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffcc;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="1334" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffcc;
+"/>
+<!-- Line: box -->
+<rect x="8172" y="2751" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffcc;
+"/>
+<!-- Line: box -->
+<rect x="9590" y="5586" width="1132" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffcc;
+"/>
+<!-- Line: box -->
+<rect x="6754" y="7003" width="1133" height="920" rx="0" 
+style="stroke:#aa3333;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ffffff;
+"/>
+<!-- Line: box -->
+<rect x="6754" y="5586" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ccffff;
+"/>
+<!-- Line: box -->
+<rect x="5337" y="5586" width="1133" height="920" rx="0" 
+style="stroke:#000000;stroke-width:8;
+stroke-linejoin:miter; stroke-linecap:butt;
+fill:#ccffff;
 "/>
 <!-- Text -->
-<text xml:space="preserve" x="2131" y="8217" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Dead End</text>
+<text xml:space="preserve" x="5910" y="3256" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Grey Chamber</text>
 <!-- Text -->
-<text xml:space="preserve" x="3548" y="6625" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern</text>
+<text xml:space="preserve" x="4493" y="6091" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="126" text-anchor="middle">Dead End</text>
 <!-- Text -->
-<text xml:space="preserve" x="3548" y="6800" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Catwalk,</text>
+<text xml:space="preserve" x="7328" y="4586" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern,</text>
 <!-- Text -->
-<text xml:space="preserve" x="3548" y="6974" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Southwest</text>
+<text xml:space="preserve" x="7328" y="4761" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Rising</text>
 <!-- Text -->
-<text xml:space="preserve" x="2131" y="5075" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern</text>
+<text xml:space="preserve" x="8745" y="8628" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Cistern Catwalk,</text>
 <!-- Text -->
-<text xml:space="preserve" x="2131" y="5249" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Catwalk, West</text>
+<text xml:space="preserve" x="8745" y="8767" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Southeast</text>
 <!-- Text -->
-<text xml:space="preserve" x="2131" y="5572" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">medium hole</text>
+<text xml:space="preserve" x="8745" y="9116" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">brass grate</text>
 <!-- Text -->
-<text xml:space="preserve" x="3548" y="3667" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Cistern Catwalk,</text>
+<text xml:space="preserve" x="5910" y="10169" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern</text>
 <!-- Text -->
-<text xml:space="preserve" x="3548" y="3806" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Northwest</text>
+<text xml:space="preserve" x="5910" y="10343" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Catwalk,</text>
 <!-- Text -->
-<text xml:space="preserve" x="3548" y="4155" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">large hole</text>
+<text xml:space="preserve" x="5910" y="10517" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">South</text>
 <!-- Text -->
-<text xml:space="preserve" x="4965" y="2245" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="114" text-anchor="middle">Cistern</text>
+<text xml:space="preserve" x="3076" y="8751" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern</text>
 <!-- Text -->
-<text xml:space="preserve" x="4965" y="2402" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="114" text-anchor="middle">Catwalk, North</text>
+<text xml:space="preserve" x="3076" y="8925" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Catwalk,</text>
 <!-- Text -->
-<text xml:space="preserve" x="4965" y="2738" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">small hole</text>
+<text xml:space="preserve" x="3076" y="9100" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Southwest</text>
 <!-- Text -->
-<text xml:space="preserve" x="6383" y="3667" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Cistern Catwalk,</text>
+<text xml:space="preserve" x="1658" y="5783" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern</text>
 <!-- Text -->
-<text xml:space="preserve" x="6383" y="3806" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Northeast</text>
+<text xml:space="preserve" x="1658" y="5958" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Catwalk, West</text>
 <!-- Text -->
-<text xml:space="preserve" x="6383" y="4102" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">small gum blob, big</text>
+<text xml:space="preserve" x="1658" y="6281" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">medium hole</text>
 <!-- Text -->
-<text xml:space="preserve" x="6383" y="4207" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">gum blob, glass slab</text>
+<text xml:space="preserve" x="3076" y="2958" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Cistern Catwalk,</text>
 <!-- Text -->
-<text xml:space="preserve" x="7800" y="5075" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern</text>
+<text xml:space="preserve" x="3076" y="3098" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Northwest</text>
 <!-- Text -->
-<text xml:space="preserve" x="7800" y="5249" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Catwalk, East</text>
+<text xml:space="preserve" x="3076" y="3446" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">large hole</text>
 <!-- Text -->
-<text xml:space="preserve" x="7800" y="5572" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">red mask, brass pipe</text>
+<text xml:space="preserve" x="5910" y="1537" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="114" text-anchor="middle">Cistern</text>
 <!-- Text -->
-<text xml:space="preserve" x="6383" y="9327" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern,</text>
+<text xml:space="preserve" x="5910" y="1693" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="114" text-anchor="middle">Catwalk, North</text>
 <!-- Text -->
-<text xml:space="preserve" x="6383" y="9501" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Bottom</text>
+<text xml:space="preserve" x="5910" y="2029" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">small hole</text>
 <!-- Text -->
-<text xml:space="preserve" x="6383" y="9824" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">iron wheel</text>
+<text xml:space="preserve" x="8745" y="2958" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Cistern Catwalk,</text>
 <!-- Text -->
-<text xml:space="preserve" x="6383" y="7996" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern, East</text>
+<text xml:space="preserve" x="8745" y="3098" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="101" text-anchor="middle">Northeast</text>
 <!-- Text -->
-<text xml:space="preserve" x="6383" y="8407" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">iron lever</text>
+<text xml:space="preserve" x="8745" y="3394" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">small gum blob, big</text>
 <!-- Text -->
-<text xml:space="preserve" x="3548" y="8130" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern, West</text>
+<text xml:space="preserve" x="8745" y="3499" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">gum blob, glass slab</text>
 <!-- Text -->
-<text xml:space="preserve" x="3548" y="8304" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">(5)</text>
+<text xml:space="preserve" x="10162" y="5783" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern</text>
+<!-- Text -->
+<text xml:space="preserve" x="10162" y="5958" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Catwalk, East</text>
+<!-- Text -->
+<text xml:space="preserve" x="10162" y="6281" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">red mask, brass pipe</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="7201" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern,</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="7375" stroke="#aa3333" fill="#aa3333" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Bottom</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="7646" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">iron wheel, brass</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="7751" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">grate</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="5870" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern, East</text>
+<!-- Text -->
+<text xml:space="preserve" x="7328" y="6281" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">iron lever</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="5783" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">Cistern, West</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="5958" stroke="#000000" fill="#000000" font-family="Times" font-style="normal" font-weight="bold" font-size="126" text-anchor="middle">(5)</text>
+<!-- Text -->
+<text xml:space="preserve" x="5910" y="6281" stroke="#000000" fill="#000000" font-family="Times" font-style="italic" font-weight="normal" font-size="76" text-anchor="middle">brass grate</text>
 </g>
 </svg>
